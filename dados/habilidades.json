@@ -1,0 +1,103 @@
+{
+
+
+    "mordida_rato": {
+      "nome": "Mordida",
+      "dano_dado": "1d2",
+      "atributo_dano": "forca",
+      "custo_mana": 0,
+      "descricao": "Uma mordida rápida e suja."
+    },
+
+    "bote_cobra": {
+      "nome": "Bote",
+      "dano_dado": "1d3",
+      "atributo_dano": "forca",
+      "custo_mana": 0,
+      "descricao": "Uma mordida venenosa.",
+      "condicao": {
+      "nome": "poison",
+      "danoativado": 3,
+      "danoturno": 1,
+      "turnos": 10
+      }
+    },
+
+    "salto_aranha": {
+      "nome": "Picada",
+      "dano_dado": "1d2",
+      "atributo_dano": "forca",
+      "custo_mana": 0,
+      "descricao": "Uma picada venenosa.",
+      "condicao": {
+      "nome": "poison",
+      "danoativado": 1,
+      "danoturno": 1,
+      "turnos": 10
+      }
+    },
+
+    "teia_aranha": {
+      "nome": "Jato de Teia",
+      "dano_dado": "1d3",
+      "atributo_dano": "forca",
+      "dado_acerto": "18",
+      "custo_mana": 5,
+      "skill_turnos": 3,
+      "descricao": "Um jato de teia pegajosa.",
+      "condicao": {
+      "nome": "paralize",
+      "turnos": 1
+      }
+    },
+
+    "mordida_ratazana": {
+      "nome": "Mordida",
+      "dano_dado": "2d3",
+      "atributo_dano": "forca",
+      "custo_mana": 0,
+      "descricao": "Uma mordida forte e suja."
+    },
+
+    "raiva_ratazana": {
+      "nome": "Mordida Raivosa",
+      "dano_dado": "2d3",
+      "atributo_dano": "forca",
+      "custo_mana": 10,
+      "skill_turnos": 3,
+      "descricao": "Uma mordida contagiosa de raiva.",
+      "condicao": {
+      "nome": "rage",
+      "turnos": 3
+      }
+    },
+
+    "furia_ratazana": {
+      "nome": "Fúria Raivosa",
+      "tipo": "magico",
+      "alvo": "self",
+      "dado_acerto": "15",
+      "custo_mana": 20,
+      "skill_turnos": 3,
+      "descricao": "Uma fúria causada pela raiva intensificando a força.",
+      "condicao": {
+      "nome": "buff_for",
+      "turnos": 10,
+      "efeito": {
+      "bonus": "forca",
+      "quantidade": 1,
+      "stack": true
+      }
+      }
+    }
+
+
+
+
+
+
+
+
+
+
+}
