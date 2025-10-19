@@ -1,1 +1,171 @@
-teste
+{
+
+
+  "rato": {
+    "nome": "Rato",
+    "descricao_curta": "Um roedor sujo e agressivo com dentes afiados.",
+    "avatar_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLkzDCKoKd9SMnGV-O1atVZvxD6VJVvd7utlHioC-Aq5tRUeth_oGtp84dbATWxLipKcCmQP-cZnaLEqA0FCgInwisR5XOD-QLrMYEc70ACDQ4iZyhcohbeF2B-tIAD9AOYRyz3vc18XfQs1HjbyJMGsiQOinvzHwLmCxxHlK_NbPEGdBCsVvr_17T_e5G/s1280/IMG-20241121-WA0156.jpg",
+    "fuga": "10",
+    "status": {
+      "vida": 5,
+      "mana": 0,
+      "destreza": 1,
+      "forca": 0,
+      "defesa": 0
+    },
+    "recompensa": {
+      "xp": 5,
+      "ouro": "1d2",
+      "loot": [
+        
+        {
+          "item": "queijo1",
+          "chance": 50,   
+          "quantidade": 1 
+        }
+
+      ]
+    },
+
+    "ataques": [
+      {
+        "id": "mordida_rato"
+      }
+    ]
+
+  },
+
+  "cobra": {
+    "nome": "Cobra",
+    "descricao_curta": "Uma cobra venenosa e sorrateira.",
+    "avatar_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5i-0Zv169cHu4n4uKlDP6i2wp4oPouTen2QOsY8mmcMin7yzW9vZ4jILs62YTc91dKQLqrJxEScarpGWOh3Ipqgf9JJt1cuHF71BawyIOt5QOqz_EaSplgEHTTrfrjCki72LEUhxkz__gZBGBX_cL1QqPUAItHsD8MknSeVO0iJheqaYLVHXckKGv1Sw/s1600/IMG-20250929-WA0082.jpg",
+    "fuga": "15",
+    "status": {
+      "vida": 15,
+      "mana": 0,
+      "destreza": 0,
+      "forca": 1,
+      "defesa": 0
+    },
+    "recompensa": {
+      "xp": 15,
+      "ouro": "2d2",
+      "loot": [
+        
+        {
+          "item": "antidoto1",
+          "chance": 50,   
+          "quantidade": 1 
+        },   
+        {
+          "item": "bota1",
+          "chance": 30,   
+          "quantidade": 1 
+        }
+
+      ]
+    },
+
+    "ataques": [
+      {
+        "id": "bote_cobra"
+      }
+    ]
+
+  },
+
+  "aranha": {
+    "nome": "Aranha",
+    "descricao_curta": "Uma aranha pequena saltitante e venenosa, normalmente anda em grupo.",
+    "avatar_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhik1c-DQsHEYgx8U9rnYa2gj2BvgVhTekLl3AxmGBx9ENWADagvmVkjBrAAbk8UKarLpcLXHSn1Moz6yVeQHpyK6n76xiIOXPZzCHsurJWpfWu7GOTkFfpmNHvUqq5pNznyuE9c1DYmWkzC2GJh3C4Wex5JUlIGXrUVpk8GjMdiz_JMDmG3KH5tS2taO8/s1600/IMG-20241122-WA0008.jpg",
+    "fuga": "18",
+    "status": {
+      "vida": 5,
+      "mana": 10,
+      "destreza": 1,
+      "forca": 0,
+      "inteligencia": 0,
+      "defesa": 0
+    },
+    "recompensa": {
+      "xp": 5,
+      "ouro": "1d2",
+      "loot": [
+        
+        {
+          "item": "teia1",
+          "chance": 50,   
+          "quantidade": 1 
+        }
+
+      ]
+    },
+
+    "ataques": [
+      {
+        "id": "teia_aranha",
+        "prioridade": 1,
+        "vida": 100
+      },
+      {
+        "id": "salto_aranha"
+      }
+    ]
+
+  },
+
+  "ratazana": {
+    "nome": "Ratazana",
+    "descricao_curta": "Um rato enorme e raivoso, sua mordida pode causar raiva.",
+    "avatar_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3-xdyFrcNl2zxAxiBHdllQGcmsnj8d3wEx_NDgbJGNe-nKUS6WAhOHaW8yMppCuK3soHEv2w3DBMrokZvGbNmg9d0yAHgKvN1tsaFhOhHTkKbT71xh4tDADKH_PHXnujJM1NSzIORRXpU-tA-A4HPm-HV9sTfendJDbX0HxXGOZmYfqod-pBcgiNRUhc/s1600/1760375949972.jpg",
+    "fuga": "40",
+    "status": {
+      "vida": 50,
+      "mana": 100,
+      "destreza": 3,
+      "forca": 3,
+      "inteligencia": 3,
+      "defesa": 1
+    },
+    "recompensa": {
+      "xp": 40,
+      "ouro": "3d5",
+      "loot": [
+        
+        {
+          "item": "queijo1",
+          "chance": 50,   
+          "quantidade": 2
+        },  
+        {
+          "item": "armadura1",
+          "chance": 30,   
+          "quantidade": 1
+        }
+
+      ]
+    },
+
+    "ataques": [
+      {
+        "id": "furia_ratazana",
+        "prioridade": 1,
+        "vida": 100
+      },
+      {
+        "id": "raiva_ratazana",
+        "prioridade": 2,
+        "vida": 100
+      },
+      {
+        "id": "mordida_ratazana"
+      }
+    ]
+
+  }
+
+
+
+
+
+}
