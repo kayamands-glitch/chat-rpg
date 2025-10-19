@@ -1,0 +1,65 @@
+{
+
+
+  "queijo1": {
+    "nome": "Pedaço de Queijo",
+    "descricao": "Um queijo simples e saboroso. Restaura 10 pontos de vida.",
+    "tipo": "consumivel",
+    "raridade": "1",
+    "efeito": {
+      "tipo": "cura",
+      "subtipo": "vida",
+      "valor": 10
+    }
+  },
+
+  "faca1": {
+    "nome": "Faca Enferrujada",
+    "descricao": "Uma faca simples, coberta de ferrugem. Não parece muito, mas é melhor que nada.",
+    "tipo": "arma",
+    "raridade": "1",
+    "dano": "1d3",
+    "slot": "arma"
+  },
+
+  "antidoto1": {
+    "nome": "Antídoto (P)",
+    "descricao": "Trata envenenamento simples. Mas o gosto é horrível.",
+    "tipo": "consumivel",
+    "raridade": "1",
+    "efeito": {
+      "tipo": "remover_condicao",
+      "condicao_alvo": "poison"
+    }
+  },
+
+  "bota1": {
+    "nome": "Bota Esfarrapada",
+    "descricao": "Uma bota velha simples, toda esfarrapada. Melhor que ficar descalço... Eu acho.",
+    "tipo": "bota",
+    "raridade": "1",
+    "defesa": "1",
+    "slot": "bota"
+  },
+
+  "teia1": {
+    "nome": "Teia",
+    "descricao": "Uma teia de aranha. Não é igual do Miranha, mas talvez seja útil para artesanatos.",
+    "tipo": "misc",
+    "raridade": "1"
+  },
+
+  "armadura1": {
+    "nome": "Camisa Esfarrapada",
+    "descricao": "Uma camisa velha simples, toda esfarrapada. Boa para usar fazendo faxina.",
+    "tipo": "armadura",
+    "raridade": "1",
+    "defesa": "1",
+    "slot": "armadura"
+  }
+
+
+
+
+
+}
