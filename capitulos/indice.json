@@ -9,7 +9,7 @@
   
   "cap2": {
     "numero": 2,
-    "titulo": "O treinamento",
+    "titulo": "O Treinamento",
     "requisitoLevel": 2,
     "requisitoCap": 1,
     "narrativa_url": "https://chatrpggame.netlify.app/capitulos/capitulo2.json"
