@@ -1,7 +1,18 @@
 {
+  
   "cap1": {
     "numero": 1,
     "titulo": "O Recrutamento",
+    "requisitoLevel": 1,
     "narrativa_url": "https://chatrpggame.netlify.app/capitulos/capitulo1.json"
+  },
+  
+  "cap2": {
+    "numero": 2,
+    "titulo": "O treinamento",
+    "requisitoLevel": 2,
+    "requisitoCap": 1,
+    "narrativa_url": "https://chatrpggame.netlify.app/capitulos/capitulo2.json"
   }
+  
 }
