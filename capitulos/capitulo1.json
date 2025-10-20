@@ -250,7 +250,7 @@
       "corTexto": "#006400",
       "negrito": true,
       "corBalao": "#ffc107",
-      "fimCap": "1",
+      "fimCap": 1,
       "recompensa": {
       "ouro": "50d1"
       }
