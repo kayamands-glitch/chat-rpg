@@ -1,4 +1,48 @@
-csCXh4EmvgfuUA4sCotVsiyDenSFySlyhakz0oMHlFebBiCDnaJ9WPAS402kMTPLla2zf8u2Z5ssz61FE9vJLDqQty7MR8gloAiNBfX3B1p_PI8Aj0Jw8H4MVK4Y9yqpE-w7w-1MKfg1fS8I5z4AiQIfvAq2Fl0NQzBdp_ud0/s1600/1759429685273.jpg",
+{
+  "capitulo1": [
+
+    {
+      "id": "msg1",
+      "texto": "A aventura começa em uma taverna, onde os aventureiros se encontram em uma mesa bebendo hidromel. Quando um homem encapuzado misterioso entra na taverna...",
+      "delaywait": 2000,
+      "delaymsg": 11000,
+      "foto": "",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg2",
+      "texto": "O homem encapuzado vai até o balcão, pega uma bebida e se aproxima da mesa de vocês. '- Posso me juntar a vocês? Tenho uma proposta...",
+      "delaywait": 1000,
+      "delaymsg": 10000,
+      "foto": "",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg3",
+      "texto": "Vocês estão curiosos para saber qual a proposta, então o homem encapuzado senta a mesa e diz: - Preciso de recrutas para limpar meu porão, pago 50 moedas de ouro... Aceitam?",
+      "delaywait": 1000,
+      "delaymsg": 13000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu6ahixmYvhxDQYaUEZTcsCXh4EmvgfuUA4sCotVsiyDenSFySlyhakz0oMHlFebBiCDnaJ9WPAS402kMTPLla2zf8u2Z5ssz61FE9vJLDqQty7MR8gloAiNBfX3B1p_PI8Aj0Jw8H4MVK4Y9yqpE-w7w-1MKfg1fS8I5z4AiQIfvAq2Fl0NQzBdp_ud0/s1600/1759429685273.jpg",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg4",
+      "texto": "Os aventureiros olham uns para os outros e decidem aceitar... O homem encapuzado se levanta e caminha até a saída da taverna pedindo para que o seguissem...",
+      "delaywait": 1000,
+      "delaymsg": 13000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu6ahixmYvhxDQYaUEZTcsCXh4EmvgfuUA4sCotVsiyDenSFySlyhakz0oMHlFebBiCDnaJ9WPAS402kMTPLla2zf8u2Z5ssz61FE9vJLDqQty7MR8gloAiNBfX3B1p_PI8Aj0Jw8H4MVK4Y9yqpE-w7w-1MKfg1fS8I5z4AiQIfvAq2Fl0NQzBdp_ud0/s1600/1759429685273.jpg",
       "centro": false,
       "corTexto": "#E0B683",
       "negrito": true,
