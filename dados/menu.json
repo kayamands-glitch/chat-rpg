@@ -1,0 +1,34 @@
+[
+  
+  {
+    "label": "Chat Global",
+    "link": "https://chatrpgmedieval.blogspot.com/p/agxy.html",
+    "id": null
+  },
+  {
+    "label": "Taverna",
+    "link": "https://chatrpgmedieval.blogspot.com/p/vwia.html",
+    "id": null
+  },
+  {
+    "label": "Estalagem",
+    "link": "#",
+    "id": null
+  },
+  {
+    "label": "Mochila",
+    "link": "#",
+    "id": "backpackButton"
+  },
+  {
+    "label": "Loja",
+    "link": "https://chatrpgmedieval.blogspot.com/p/gaox.html",
+    "id": "shopButton"
+  },
+  {
+    "label": "Perfil",
+    "link": "#",
+    "id": "profileButton"
+  }
+  
+]
