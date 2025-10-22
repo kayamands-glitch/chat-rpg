@@ -1,4 +1,4 @@
-nívníveisívníveis
+{
   "level_1": {
     "lvl": 1,
     "nome": "Estalagem Simples",
@@ -25,4 +25,7 @@ nívníveisívníveis
        "nivel_jogador": 5,
        "capitulo": 2
      },
-     "descricao": "Oferece um descanso melhor ecomodidade mais nívníveis
+     "descricao": "Oferece um descanso melhor e talvez algumas comodidades."
+  }
+  // ... mais níveis
+}
