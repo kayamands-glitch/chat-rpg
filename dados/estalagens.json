@@ -1,30 +1,29 @@
 {
+
+
   "level_1": {
     "lvl": 1,
-    "nome": "Estalagem Simples",
-    "foto": "https://URL_DA_FOTO_NIVEL_1.jpg",
+    "nome": "Latão de fogueira",
+    "descricao": "Um lugar precário para se aquecer.",
+    "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJPVeYPZJOZyKTGTrKOM_Gx6xJlZkC8T4EtCGj7kTPSZBWrmU-KQPVWzYhgBlqUiXIgrq73Vk3Pm2jl20QT2Eu-XpGedZ8IbW1WBVGi0ehrXRc_LOCPUSw6FT94iJuwC6XLW8bOH6q-4iuJ_6qisKEDTECKQ_FUEyEvgx5C0UbsX4c_cjugF32DdkgNUY/s1600/1761101194926.jpg",
     "construcao": {
-       "ouro": 100,
-       "madeira": 50
-     },
-    "requisitos": {
-       "nivel_jogador": 1
-     },
-    "descricao": "Um lugar básico para descansar."
+       "build_1": "Lixeira"
+     }
   },
+
   "level_2": {
     "lvl": 2,
-    "nome": "Estalagem Confortável",
-    "foto": "https://URL_DA_FOTO_NIVEL_2.jpg",
+    "nome": "Latão de fogueira",
+    "descricao": "Um lugar precário para se aquecer.",
+    "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJPVeYPZJOZyKTGTrKOM_Gx6xJlZkC8T4EtCGj7kTPSZBWrmU-KQPVWzYhgBlqUiXIgrq73Vk3Pm2jl20QT2Eu-XpGedZ8IbW1WBVGi0ehrXRc_LOCPUSw6FT94iJuwC6XLW8bOH6q-4iuJ_6qisKEDTECKQ_FUEyEvgx5C0UbsX4c_cjugF32DdkgNUY/s1600/1761101194926.jpg",
     "construcao": {
-       "ouro": 500,
-       "madeira": 200,
-       "pedra": 100
+       "build_1": "Lixeira"
      },
     "requisitos": {
        "nivel_jogador": 5,
        "capitulo": 2
-     },
-     "descricao": "Oferece um descanso melhor e talvez algumas comodidades."
+     }
   }
+
+
 }
