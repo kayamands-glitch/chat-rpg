@@ -1,0 +1,27 @@
+{
+  "lixeira": {
+    "id_base": "lixeira",
+    "nome_base": "Lixeira",
+    "descricao_base": "Permite destruir itens indesejados. Melhore-a para ter chance de encontrar itens melhores no lixo.",
+    "requisito_estalagem_lvl": 1,
+    "max_level": 100,
+
+    "custo_base": {
+      "madeira": 10,
+      "sucata": 5
+    },
+    
+    "custo_upgrade_multiplicador": 2.0,
+
+    "efeitos": {
+      "tipo": "loot",
+      "loot_table": [
+        { "item": "ID_QUEIJO", "quantidade": 1, "chance": 10, "min_lvl": 1 },
+        { "item": "ID_PANO", "quantidade": 1, "chance": 5, "min_lvl": 2 },
+        { "item": "ID_GARRAFA_VAZIA", "quantidade": 1, "chance": 5, "min_lvl": 2 },
+        { "item": "ID_FRANGO_ASSADO", "quantidade": 1, "chance": 1, "min_lvl": 5 },
+        { "item": "ID_ANEL_SIMPLES", "quantidade": 1, "chance": 0.5, "min_lvl": 10 }
+      ]
+    }
+  }
+}
