@@ -1,0 +1,30 @@
+{
+  "level_1": {
+    "lvl": 1,
+    "nome": "Estalagem Simples",
+    "foto": "https://URL_DA_FOTO_NIVEL_1.jpg",
+    "construcao": {
+       "ouro": 100,
+       "madeira": 50
+     },
+    "requisitos": {
+       "nivel_jogador": 1
+     },
+    "descricao": "Um lugar básico para descansar."
+  },
+  "level_2": {
+    "lvl": 2,
+    "nome": "Estalagem Confortável",
+    "foto": "https://URL_DA_FOTO_NIVEL_2.jpg",
+    "construcao": {
+       "ouro": 500,
+       "madeira": 200,
+       "pedra": 100
+     },
+    "requisitos": {
+       "nivel_jogador": 5,
+       "capitulo": 2
+     },
+     "descricao": "Oferece um descanso melhor e talvez algumas comodidades."
+  }
+  // ... mais nívníveis
