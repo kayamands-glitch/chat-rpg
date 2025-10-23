@@ -72,32 +72,4 @@
 
 
 
-}    "nome": "Bota Esfarrapada",
-    "descricao": "Uma bota velha simples, toda esfarrapada. Melhor que ficar descalço... Eu acho.",
-    "tipo": "bota",
-    "raridade": "1",
-    "defesa": 1,
-    "slot": "bota"
-  },
-
-  "teia1": {
-    "nome": "Teia",
-    "descricao": "Uma teia de aranha. Não é igual do Miranha, mas talvez seja útil para artesanatos.",
-    "tipo": "misc",
-    "raridade": "1"
-  },
-
-  "armadura1": {
-    "nome": "Camisa Esfarrapada",
-    "descricao": "Uma camisa velha simples, toda esfarrapada. Boa para usar fazendo faxina.",
-    "tipo": "armadura",
-    "raridade": "1",
-    "defesa": 1,
-    "slot": "armadura"
-  }
-
-
-
-
-
 }
