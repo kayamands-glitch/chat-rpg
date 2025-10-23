@@ -9,8 +9,8 @@
 
     "custo": {
       "tempo": 5,
-      "ouro": 10,
-      "sucata": 5
+      "ouro": 50,
+      "sucata": 10
     },
    
     "efeitos": {
@@ -22,26 +22,19 @@
     }
   },
 
-  "lixeira": {
-    "id": "lixeira",
-    "nome": "Lixeira",
-    "descricao": "Permite destruir itens por sucatas. Melhore-a para ter chance de encontrar itens no lixo e mais sucatas.",
+  "palha_amontoada": {
+    "id": "palha_amontoada",
+    "nome": "Palha Amontoada",
+    "descricao": "Não é confortável, mas é possível descansar recuperando um pouco de vigor.",
     "max_level": 100,
 
     "custo": {
-      "tempo": 5,
-      "ouro": 10,
-      "sucata": 5
+      "tempo": 7,
+      "ouro": 100,
+      "sucata": 20
     },
-   
-    "efeitos": {
-      "tipo": "loot",
-      "loot_table": [
-        { "item": "queijo1", "qt": 1, "chance": 20, "lvl": 2 },
-        { "item": "teia1", "qt": 1, "chance": 30, "lvl": 2 }
-      ]
-    }
   }
-
+   
+  
 
 }
