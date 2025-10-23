@@ -6,6 +6,7 @@
     "descricao": "Um queijo simples e saboroso. Restaura 10 pontos de vida.",
     "tipo": "consumivel",
     "raridade": "1",
+    "valor": 2,
     "efeito": {
       "tipo": "cura",
       "subtipo": "vida",
@@ -18,6 +19,8 @@
     "descricao": "Uma faca simples, coberta de ferrugem. Não parece muito, mas é melhor que nada.",
     "tipo": "arma",
     "raridade": "1",
+    "valor": 7,
+    "sucata": 3,
     "dano": "1d3",
     "slot": "arma"
   },
@@ -27,6 +30,7 @@
     "descricao": "Trata envenenamento simples. Mas o gosto é horrível.",
     "tipo": "consumivel",
     "raridade": "1",
+    "valor": 2,
     "efeito": {
       "tipo": "remover_condicao",
       "condicao_alvo": "poison"
@@ -35,6 +39,40 @@
 
   "bota1": {
     "nome": "Bota Esfarrapada",
+    "descricao": "Uma bota velha simples, toda esfarrapada. Melhor que ficar descalço... Eu acho.",
+    "tipo": "bota",
+    "raridade": "1",
+    "valor": 5,
+    "sucata": 2,
+    "defesa": 1,
+    "slot": "bota"
+  },
+
+  "teia1": {
+    "nome": "Teia",
+    "descricao": "Uma teia de aranha. Não é igual do Miranha, mas talvez seja útil para artesanatos.",
+    "tipo": "misc",
+    "raridade": "1"
+    "valor": 1,
+    "sucata": 1,
+  },
+
+  "armadura1": {
+    "nome": "Camisa Esfarrapada",
+    "descricao": "Uma camisa velha simples, toda esfarrapada. Boa para usar fazendo faxina.",
+    "tipo": "armadura",
+    "raridade": "1",
+    "valor": 5,
+    "sucata": 2,
+    "defesa": 1,
+    "slot": "armadura"
+  }
+
+
+
+
+
+}    "nome": "Bota Esfarrapada",
     "descricao": "Uma bota velha simples, toda esfarrapada. Melhor que ficar descalço... Eu acho.",
     "tipo": "bota",
     "raridade": "1",
