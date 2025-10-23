@@ -52,7 +52,7 @@
     "nome": "Teia",
     "descricao": "Uma teia de aranha. Não é igual do Miranha, mas talvez seja útil para artesanatos.",
     "tipo": "misc",
-    "raridade": "1"
+    "raridade": "1",
     "valor": 1,
     "sucata": 1,
   },
