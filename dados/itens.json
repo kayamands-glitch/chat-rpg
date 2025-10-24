@@ -69,7 +69,7 @@
   },
 
   "machado1": {
-    "nome": "Machado de pedra",
+    "nome": "Machado de Pedra",
     "descricao": "Um machado rudimentar, péssimo para coletar madeira.",
     "tipo": "arma",
     "tags": ["tool"],
