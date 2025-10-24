@@ -2,7 +2,7 @@
   "criar_machado1": {
     "id": "criar_machado1",
     "nome": "Machado de Pedra",
-    "descricao": "Um machado rudimentar, bom para coletar madeira.",
+    "descricao": "Um machado rudimentar, péssimo para coletar madeira.",
     "resultado": {
       "itemId": "machado1",
       "quantidade": 1
