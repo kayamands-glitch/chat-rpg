@@ -66,6 +66,18 @@
     "sucata": 2,
     "defesa": 1,
     "slot": "armadura"
+  },
+
+  "machado1": {
+    "nome": "Machado de pedra",
+    "descricao": "Um machado rudimentar, péssimo para coletar madeira.",
+    "tipo": "arma",
+    "tags": ["tool"],
+    "raridade": "1",
+    "valor": 8,
+    "sucata": 4,
+    "dano": "1d4",
+    "slot": "arma"
   }
 
 
