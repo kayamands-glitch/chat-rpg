@@ -33,8 +33,26 @@
       "ouro": 100,
       "sucata": 20
     }
-  }
+  },
    
-  
+    "mesa_de_caixote": {
+    "id": "mesa_de_caixote",
+    "nome": "Mesa de Caixote",
+    "descricao": "Uma bancada improvisada feita com caixotes velhos. Permite realizar trabalhos manuais simples.",
+    "max_level": 100, 
+    "custo": {
+      "tempo": 10,
+      "ouro": 200,
+      "sucata": 35
+    },
+    "efeitos": {
+      "tipo": "crafting",
+      "receitas_liberadas": [ 
+         { "item_id": "faca_enferrujada", "lvl": 1 },
+         { "item_id": "escudo_madeira", "lvl": 2 } 
+      ]
+    }
+  }
+
 
 }
