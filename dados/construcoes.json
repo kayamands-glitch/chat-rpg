@@ -48,8 +48,8 @@
     "efeitos": {
       "tipo": "crafting",
       "receitas_liberadas": [ 
-         { "receita_id": "faca_enferrujada", "lvl": 1 },
-         { "item_id": "escudo_madeira", "lvl": 2 } 
+         { "receita_id": "criar_machado1", "lvl": 1 },
+         { "receita_id": "escudo_madeira", "lvl": 2 } 
       ]
     }
   }
