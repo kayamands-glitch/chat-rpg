@@ -61,7 +61,17 @@
       "xp": 15,
       "ouro": "2d2",
       "loot": [
-        
+
+       {
+          "item": "pedra1",
+          "chance": 30,   
+          "quantidade": 1 
+        },
+       {
+          "item": "madeira1",
+          "chance": 30,   
+          "quantidade": 1 
+        },        
         {
           "item": "antidoto1",
           "chance": 50,   
