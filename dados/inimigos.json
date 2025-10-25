@@ -28,6 +28,11 @@
           "chance": 30,   
           "quantidade": 1 
         },
+       {
+          "item": "denterato1",
+          "chance": 30,   
+          "quantidade": 1 
+        },
         {
           "item": "queijo1",
           "chance": 50,   
