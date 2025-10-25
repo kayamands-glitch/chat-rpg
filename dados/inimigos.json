@@ -76,7 +76,12 @@
           "item": "madeira1",
           "chance": 30,   
           "quantidade": 1 
-        },        
+        }, 
+       {
+          "item": "pelecobra1",
+          "chance": 30,   
+          "quantidade": 1 
+        },       
         {
           "item": "antidoto1",
           "chance": 50,   
