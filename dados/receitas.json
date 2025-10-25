@@ -1,4 +1,5 @@
 {
+  
   "criar_machado1": {
     "id": "criar_machado1",
     "nome": "Machado de Pedra",
@@ -12,5 +13,21 @@
       "pedra1": 10,
       "madeira1": 5
     }
+  },
+  
+  "criar_picareta1": {
+    "id": "criar_picareta1",
+    "nome": "Picareta de Pedra",
+    "descricao": "Uma picareta rudimentar, péssima para coletar madeira... Já que é uma picareta.",
+    "resultado": {
+      "itemId": "picareta1",
+      "tempo": 12,
+      "quantidade": 1
+    },
+    "ingredientes": {
+      "pedra1": 9,
+      "madeira1": 8
+    }
   }
+
 }
