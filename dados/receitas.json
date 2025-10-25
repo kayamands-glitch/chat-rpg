@@ -5,6 +5,7 @@
     "descricao": "Um machado rudimentar, péssimo para coletar madeira.",
     "resultado": {
       "itemId": "machado1",
+      "itemId": "machado1",
       "quantidade": 1
     },
     "ingredientes": {
