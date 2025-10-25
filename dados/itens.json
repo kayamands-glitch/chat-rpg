@@ -81,6 +81,58 @@
   }
 
 
+"pedra1": {
+    "nome": "Pedra",
+    "descricao": "Uma pedra pequena, quem sabe sirva para artesanatos.",
+    "tipo": "misc",
+    "raridade": "1",
+    "valor": 1,
+    "sucata": 1
+  },
+
+"madeira1": {
+    "nome": "Madeira",
+    "descricao": "Um pedaço de madeira. Talvez seja útil para artesanatos.",
+    "tipo": "misc",
+    "raridade": "1",
+    "valor": 1,
+    "sucata": 1
+  },
+
+"denterato1": {
+    "nome": "Dente de Rato",
+    "descricao": "Um dente de rato, cuidado que pode conter doenças.",
+    "tipo": "misc",
+    "raridade": "1",
+    "valor": 1,
+    "sucata": 1
+  },
+
+"pelecobra1": {
+    "nome": "Pele de Cobra",
+    "descricao": "Uma pele de cobra, tirada de uma cobra morta... Porque de uma viva seria difícil.",
+    "tipo": "misc",
+    "raridade": "1",
+    "valor": 2,
+    "sucata": 2
+  },
+
+"picareta1": {
+    "nome": "Picareta de Pedra",
+    "descricao": "Uma picareta rudimentar, péssima para coletar madeira.. Já que é uma picareta.",
+    "tipo": "arma",
+    "tags": ["tool"],
+    "raridade": "1",
+    "valor": 9,
+    "sucata": 4,
+    "dano": "2d2",
+    "slot": "arma"
+  }
+
+
+
+
+
 
 
 
