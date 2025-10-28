@@ -3,10 +3,10 @@
 
     {
       "id": "msg1",
-      "texto": "A aventura começa em uma taverna, onde os aventureiros se encontram em uma mesa bebendo hidromel. Quando um homem encapuzado misterioso entra na taverna...",
+      "texto": "Após vocês saírem do porão, o homem encapuzado guia vocês até o quintal da igreja, onde parece um centro de treinamento improvisado...",
       "delaywait": 2000,
       "delaymsg": 11000,
-      "foto": "",
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwSYCD55tdIL72Q_mFiUfcsbb1datOO81Cd3VDt7T9moAy-4DxNuRCeoU7Cw-7xFD5P2U-3ApK33w3ae6oglDhQ9dQeOUGD_ZG-1TgNVGAlHDoqdL5lxj2DZCz4l0gdtEOYg7GnHvidL_8SP9RwPNyo1J7PbhlA9gLQw5h8JoLJinM4brjxMJGcSHGqD8/s1600/1761630779827.jpg",
       "centro": false,
       "corTexto": "#E0B683",
       "negrito": true,
@@ -15,9 +15,9 @@
 
     {
       "id": "msg2",
-      "texto": "O homem encapuzado vai até o balcão, pega uma bebida e se aproxima da mesa de vocês. '- Posso me juntar a vocês? Tenho uma proposta...",
+      "texto": "- É aqui que iremos treinar, ensinarei para vocês uma nova habilidade... - Diz o homem encapuzado, apontando para um alvo, que estava logo no centro do local.",
       "delaywait": 1000,
-      "delaymsg": 10000,
+      "delaymsg": 12000,
       "foto": "",
       "centro": false,
       "corTexto": "#E0B683",
@@ -27,10 +27,10 @@
 
     {
       "id": "msg3",
-      "texto": "Vocês estão curiosos para saber qual a proposta, então o homem encapuzado senta a mesa e diz: - Preciso de recrutas para limpar meu porão, pago 50 moedas de ouro... Aceitam?",
+      "texto": "Com um estalar de dedos, a mão do homem encapuzado fica em chamas... Logo em seguida, uma bola de fogo é arremessada, fazendo o alvo queimar em chamas...",
       "delaywait": 1000,
       "delaymsg": 13000,
-      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu6ahixmYvhxDQYaUEZTcsCXh4EmvgfuUA4sCotVsiyDenSFySlyhakz0oMHlFebBiCDnaJ9WPAS402kMTPLla2zf8u2Z5ssz61FE9vJLDqQty7MR8gloAiNBfX3B1p_PI8Aj0Jw8H4MVK4Y9yqpE-w7w-1MKfg1fS8I5z4AiQIfvAq2Fl0NQzBdp_ud0/s1600/1759429685273.jpg",
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEib8MQj0Y4LmLnsqoFtmB-4M2z0j-YXu0oTCiH4vJzGr-RGBTBfx2_gFaIal_raGXJYJoM2r6tIFHmCFqjLKzjOp55xaXjILhp6hWWvXuHvjEwuHbACraUNsbkkTW2B6XtPix_dQWLNukXQLjveV3fxvkb1yiLTnvR-1FKG3MfKB3kxtYFb4cyXxPgik/s1600/1761632460142.jpg",
       "centro": false,
       "corTexto": "#E0B683",
       "negrito": true,
@@ -39,10 +39,10 @@
 
     {
       "id": "msg4",
-      "texto": "Os aventureiros olham uns para os outros e decidem aceitar... O homem encapuzado se levanta e caminha até a saída da taverna pedindo para que o seguissem...",
+      "texto": "Vocês olham espantados, mas muito entusiasmados. O homem encapuzado, toca o ombro de vocês, uma sensação de um conhecimento novo é passado...",
       "delaywait": 1000,
       "delaymsg": 13000,
-      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu6ahixmYvhxDQYaUEZTcsCXh4EmvgfuUA4sCotVsiyDenSFySlyhakz0oMHlFebBiCDnaJ9WPAS402kMTPLla2zf8u2Z5ssz61FE9vJLDqQty7MR8gloAiNBfX3B1p_PI8Aj0Jw8H4MVK4Y9yqpE-w7w-1MKfg1fS8I5z4AiQIfvAq2Fl0NQzBdp_ud0/s1600/1759429685273.jpg",
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXB2ITsWSAvT9IoBXD_wIQFV05PgE_zBt1fD_4EAZyEmZrt9D_TruvF2tocta82giQNK316IKWTECqRwMw82SScBdL0kotjbNJ6ZU1D9x3ltyblYPa3nHQFtC8Kiamv-scBRIMNt2t9Iv2pNjwAh2DsaMXCfc_PjF83JkteQvmJxVJw1ztJD-6-TUKayk/s1600/1761632842453.jpg",
       "centro": false,
       "corTexto": "#E0B683",
       "negrito": true,
@@ -51,22 +51,22 @@
 
     {
       "id": "msg5",
-      "texto": "Saindo da taverna, os aventureiros seguem o homem encapuzado pela cidade. A cidade está bem movimentada, onde a rua principal leva diretamente a uma igreja.",
+      "texto": "Vocês apreenderam novas habilidades.",
       "delaywait": 1000,
-      "delaymsg": 13000,
-      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGt2H_p1lzz9RbvcWORdYHP6qj83bcz1sQzjYpfgWSs_b2eblh1RjZIQ8b5sl086cINjcsiMfbzImL9oHs0mLi7m28Nxusb_ft24EJ-VI7wQ-96cgf62rLNBJYeqOoKQNBiASjVlSUkxqg1jcN7UlTSpEGH86Cmp-l69Vl1aJi-WItvslpaTMbrM5mgo4/s1600/IMG-20251002-WA0022.jpg",
-      "centro": false,
-      "corTexto": "#E0B683",
+      "delaymsg": 5000,
+      "foto": "",
+      "centro": true,
+      "corTexto": "#006400",
       "negrito": true,
-      "corBalao": "#4a412a"
+      "corBalao": "#ffc107"
     },
 
     {
       "id": "msg6",
-      "texto": "Chegando na entrada da igreja, o homem encapuzado empurra a porta acenando para os aventureiros entrarem... Descendo uma escada vocês chegam ao porão, onde o homem encapuzado fecha a porta logo atrás de vocês.",
+      "texto": "O homem encapuzado fecha a mão e o fogo no alvo se extingue... Do nada ele pega um cesto de madeira e vira na frente deles. '- É hora de vocês treinarem!",
       "delaywait": 1000,
-      "delaymsg": 15000,
-      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguCldSqAicOqfyUuFc1CmH8PIrQksPMvu2e-fjAtBZJAzIb6eLjC45oR8lNPdH3M6hJhpgYDxJz92D5hcfXxQmuzH_KNu-ebB9f0WpIVmM2WtuY6oH-VyvfJgXGagnOVenshFS_A_MScNuhK-I3g1hxl9XKLSx07heq4UDBhojEMhN1qBi4cl08RId14w/s1600/1759996695686~2.jpg",
+      "delaymsg": 13000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6DskNM1BEDydlo1MGlarhKuvZ5-tdGLv-BJWaElpLsdssi_mGnjzWOjPzZX0zC6AMbyJn8nQUc0XxP4L8dmyfRA5eNv58LshfS_3oF2poiWxZAXa0WFkqOJMi7Qxa82pZBpoeiUFKDMi-fIiypv8xWxLZrJxr4Pu7_KCvyAuVVejb3AYldMPtj4KLKL0/s1600/1761635121394.jpg",
       "centro": false,
       "corTexto": "#E0B683",
       "negrito": true,
@@ -75,14 +75,11 @@
 
     {
       "id": "msg7",
-      "texto": "Vocês entraram no porão.",
       "delaywait": 1000,
-      "delaymsg": 5000,
-      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw08keEb-o6qU8QLC4LXlKg3wmDJ0xrQ0gLjLrFxOOVyoeod0jlTVLa0Spoen_9Srkjc05xE6HeMVbNrduU5k_srypGJ1rpQ0fswgssXDEtK2RfUZ-QFccOBCQkHiDRXFnj477tp7uHt-JjvNnHLmeryiL_qUNXV9ndryS6QpwZLy1eWu3VJ5K-D857_w/s1600/1759997576134.jpg",
-      "centro": true,
-      "corTexto": "#006400",
-      "negrito": true,
-      "corBalao": "#ffc107"
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji4-kqX2BrJreeABEc6N7arh2u8HvptbZwjJs6FPXikSRlKbod-TsBN7sHXBET6ksmjqa1HzorLshz5Jtg5N5iJqKLqV1rXXWouoULpxkPbNLe3K2rDF8dl8M6YWKfsPPi002-1chdtzC1FZ8GgYM9SBxVrsJNeWmvV2AknbxXTZWkJwpV2hHA753625s/s1600/1759622894880~2.jpg",
+      "tipo": "batalha",
+      "inimigo": "cobra",
+      "quantidade": 3
     },
 
     {
@@ -250,7 +247,7 @@
       "corTexto": "#006400",
       "negrito": true,
       "corBalao": "#ffc107",
-      "fimCap": "1",
+      "fimcap": 1,
       "recompensa": {
       "ouro": "50d1"
       }
