@@ -1,0 +1,75 @@
+{
+
+
+  "1": {
+    "nome": "Guerreiro",
+    "descricao": "Mestre do combate corpo a corpo.",
+    "stats": {
+      "pstrength": 3,
+      "pdexterity": 1,
+      "pconstitution": 1,
+      "pintelligence": 0
+    },
+    "skills": [
+      "grito_de_guerra1"
+    ]
+  },
+
+  "2": {
+    "nome": "Ladrão",
+    "descricao": "Especialista em furtividade e truques.",
+    "stats": {
+      "pstrength": 2,
+      "pdexterity": 3,
+      "pconstitution": 0,
+      "pintelligence": 0
+    },
+    "skills": [
+      "corte_envenenado1"
+    ]
+  },
+
+  "3": {
+    "nome": "Mago",
+    "descricao": "Conjurador de poderosas magias arcanas.",
+    "stats": {
+      "pstrength": 0,
+      "pdexterity": 0,
+      "pconstitution": 0,
+      "pintelligence": 5
+    },
+    "skills": [
+      "bola_de_fogo1"
+    ]
+  },
+
+  "4": {
+    "nome": "Clérigo",
+    "descricao": "Devoto que usa poder divino para curar e proteger.",
+    "stats": {
+      "pstrength": 2,
+      "pdexterity": 0,
+      "pconstitution": 1,
+      "pintelligence": 2
+    },
+    "skills": [
+      "cura1"
+    ]
+  },
+
+  "5": {
+    "nome": "Arqueiro",
+    "descricao": "Especialista em ataques a distância.",
+    "stats": {
+      "pstrength": 0,
+      "pdexterity": 3,
+      "pconstitution": 1,
+      "pintelligence": 1
+    },
+    "skills": [
+      "tiro_certo1"
+    ]
+  }
+
+
+}
