@@ -58,7 +58,14 @@
       "centro": true,
       "corTexto": "#006400",
       "negrito": true,
-      "corBalao": "#ffc107"
+      "corBalao": "#ffc107",
+      "skillsLiberadas": [
+        "grito_de_guerra1",
+        "corte_envenenado1",
+        "bola_de_fogo1",
+        "cura1",
+        "tiro_certo1"
+      ]
     },
 
     {
