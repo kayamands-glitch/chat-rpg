@@ -1,0 +1,13 @@
+{
+  "bola_de_fogo1": {
+    "nome": "Bola de Fogo I",
+    "tipo": "magico",
+    "grupo": "Bola de Fogo",
+    "dano_dado": "2d3",
+    "atributo_dano": "inteligencia",
+    "dado_acerto": "10",
+    "custo_mana": 5,
+    "skill_turnos": 1,
+    "descricao": "Lança uma esfera de fogo pequena que explode no alvo."
+  }
+}
