@@ -1,7 +1,7 @@
 {
   "bola_de_fogo1": {
     "nome": "Bola de Fogo I",
-    "tipo": "magico",
+    "classeId": "magico",
     "tipo": "magico",
     "grupo": "Bola de Fogo",
     "dano_dado": "2d3",
