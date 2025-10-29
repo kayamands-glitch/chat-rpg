@@ -1,7 +1,46 @@
 {
+  "grito_de_guerra1": {
+    "classeId": 1,
+    "nome": "Grito de Guerra I",
+    "tipo": "buff",
+    "alvo": "self",
+    "grupo": "Grito de Guerra",
+    "dano_dado": null,
+    "atributo_dano": "forca",
+    "dado_acerto": "10",
+    "custo_mana": 3,
+    "skill_turnos": 5,
+    "descricao": "Aumenta seu ataque no próximo turno.",
+    "condicao": {
+      "nome": "buff_for",
+      "turnos": 2,
+      "efeito": {
+        "bonus": "forca",
+        "quantidade": 2
+      }
+    }
+  },
+  "corte_envenenado1": {
+    "classeId": 2,
+    "nome": "Corte Envenenado I",
+    "tipo": "fisica",
+    "grupo": "Corte Envenenado",
+    "dano_dado": "1d4",
+    "atributo_dano": "destreza",
+    "dado_acerto": "12",
+    "custo_mana": 5,
+    "skill_turnos": 2,
+    "descricao": "Um corte rápido que pode envenenar o alvo.",
+    "condicao": {
+      "nome": "poison",
+      "danoativado": 3,
+      "danoturno": 1,
+      "turnos": 3
+    }
+  },
   "bola_de_fogo1": {
-    "nome": "Bola de Fogo I",
     "classeId": 3,
+    "nome": "Bola de Fogo I",
     "tipo": "magico",
     "grupo": "Bola de Fogo",
     "dano_dado": "2d3",
@@ -10,5 +49,30 @@
     "custo_mana": 5,
     "skill_turnos": 1,
     "descricao": "Lança uma esfera de fogo pequena que explode no alvo."
+  },
+  "cura1": {
+    "classeId": 4,
+    "nome": "Cura I",
+    "tipo": "magico",
+    "alvo": "self",
+    "grupo": "Cura",
+    "dano_dado": "1d6",
+    "atributo_dano": "inteligencia",
+    "dado_acerto": "10",
+    "custo_mana": 8,
+    "skill_turnos": 2,
+    "descricao": "Cura uma pequena quantidade de vida."
+  },
+  "tiro_certo1": {
+    "classeId": 5,
+    "nome": "Tiro Certo I",
+    "tipo": "fisica",
+    "grupo": "Tiro Certo",
+    "dano_dado": "1d8",
+    "atributo_dano": "destreza",
+    "dado_acerto": "10",
+    "custo_mana": 4,
+    "skill_turnos": 1,
+    "descricao": "Um disparo preciso que causa dano."
   }
 }
