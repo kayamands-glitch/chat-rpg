@@ -48,7 +48,7 @@
     "dado_acerto": "10",
     "custo_mana": 5,
     "skill_turnos": 3,
-    "cor": 3,
+    "cor": "​#FF8C00",
     "descricao": "Lança uma esfera de fogo pequena que explode no alvo."
   },
   "cura1": {
