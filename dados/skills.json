@@ -6,17 +6,17 @@
     "alvo": "self",
     "grupo": "Grito de Guerra",
     "dano_dado": null,
-    "atributo_dano": "forca",
-    "dado_acerto": "10",
-    "custo_mana": 3,
-    "skill_turnos": 5,
+    "atributo_dano": "inteligencia",
+    "dado_acerto": "15",
+    "custo_mana": 2,
+    "skill_turnos": 0,
     "descricao": "Aumenta seu ataque no próximo turno.",
     "condicao": {
       "nome": "buff_for",
-      "turnos": 2,
+      "turnos": 3,
       "efeito": {
         "bonus": "forca",
-        "quantidade": 2
+        "quantidade": 1
       }
     }
   },
