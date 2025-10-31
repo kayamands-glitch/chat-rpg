@@ -47,8 +47,8 @@
     "atributo_dano": "inteligencia",
     "dado_acerto": "10",
     "custo_mana": 5,
-    "skill_turnos": 1,
-    "cor": "​#FF8C001",
+    "skill_turnos": 0,
+    "cor": "​#FF8C00",
     "descricao": "Lança uma esfera de fogo pequena que explode no alvo."
   },
   "cura1": {
