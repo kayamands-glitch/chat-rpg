@@ -16,7 +16,8 @@
       "turnos": 3,
       "efeito": {
         "bonus": "forca",
-        "quantidade": 1
+        "quantidade": 1,
+        "stack": true
       }
     }
   },
