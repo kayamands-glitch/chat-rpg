@@ -34,7 +34,7 @@
     "descricao": "Um corte rápido que pode envenenar o alvo.",
     "condicao": {
       "nome": "poison",
-      "danoativado": 3,
+      "danoativado": 1,
       "danoturno": 1,
       "turnos": 5,
       "stack": true
