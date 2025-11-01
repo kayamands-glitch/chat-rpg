@@ -82,7 +82,7 @@
       "skill_turnos": 3,
       "descricao": "Uma fúria causada pela raiva intensificando a força.",
       "condicao": {
-      "nome": "buff_for",
+      "nome": "ratazana_buff_for",
       "turnos": 10,
       "efeito": {
       "bonus": "forca",
