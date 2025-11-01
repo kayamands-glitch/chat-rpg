@@ -57,7 +57,7 @@
     "classeId": 4,
     "nome": "Cura I",
     "tipo": "magico",
-    "alvo": "self",
+    "alvo": "ally",
     "grupo": "Cura",
     "dano_dado": "1d5",
     "atributo_dano": "inteligencia",
