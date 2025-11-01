@@ -30,13 +30,14 @@
     "atributo_dano": "destreza",
     "dado_acerto": "12",
     "custo_mana": 5,
-    "skill_turnos": 2,
+    "skill_turnos": 1,
     "descricao": "Um corte rápido que pode envenenar o alvo.",
     "condicao": {
       "nome": "poison",
       "danoativado": 3,
       "danoturno": 1,
-      "turnos": 3
+      "turnos": 5,
+      "stack": true
     }
   },
   "bola_de_fogo1": {
