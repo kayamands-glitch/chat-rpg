@@ -76,6 +76,7 @@
       "nome": "Fúria Raivosa",
       "tipo": "magico",
       "alvo": "self",
+      "grupo": "Fúria Raivosa",
       "dado_acerto": "15",
       "custo_mana": 20,
       "skill_turnos": 3,
