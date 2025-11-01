@@ -161,11 +161,11 @@
     "fuga": "40",
     "status": {
       "vida": 50,
-      "mana": 100,
+      "mana": 1000,
       "destreza": 3,
       "forca": 3,
       "inteligencia": 3,
-      "defesa": 1
+      "defesa": 10
     },
     "recompensa": {
       "xp": 40,
