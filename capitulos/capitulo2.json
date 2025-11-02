@@ -69,11 +69,11 @@
     },
 
     {
-      "id": "msg6",
-      "texto": "O homem encapuzado fecha a mão e o fogo no alvo se extingue... Do nada ele pega um cesto de madeira e vira na frente deles. '- É hora de vocês treinarem!",
+      "id": "msg8",
+      "texto": "- Parece que vocês aprenderam bem suas novas habilidades... Será muito útil em breve. - Diz o homem encapuzado.",
       "delaywait": 1000,
-      "delaymsg": 13000,
-      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6DskNM1BEDydlo1MGlarhKuvZ5-tdGLv-BJWaElpLsdssi_mGnjzWOjPzZX0zC6AMbyJn8nQUc0XxP4L8dmyfRA5eNv58LshfS_3oF2poiWxZAXa0WFkqOJMi7Qxa82pZBpoeiUFKDMi-fIiypv8xWxLZrJxr4Pu7_KCvyAuVVejb3AYldMPtj4KLKL0/s1600/1761635121394.jpg",
+      "delaymsg": 9000,
+      "foto": "https://youtube.com/shorts/Y1yeHC58ZXA?si=E7e04t_cYL9118Fw",
       "centro": false,
       "corTexto": "#E0B683",
       "negrito": true,
