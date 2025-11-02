@@ -17,7 +17,7 @@
       "id": "msg2",
       "texto": "- É aqui que iremos treinar, ensinarei para vocês uma nova habilidade... - Diz o homem encapuzado, apontando para um alvo, que estava logo no centro do local.",
       "delaywait": 1000,
-      "delaymsg": 12000,
+      "delaymsg": 120000,
       "foto": "https://youtube.com/shorts/Y1yeHC58ZXA?si=E7e04t_cYL9118Fw",
       "centro": false,
       "corTexto": "#E0B683",
