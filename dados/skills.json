@@ -45,7 +45,6 @@
     "classeId": 3,
     "nome": "Bola de Fogo I",
     "tipo": "magico",
-    "alvo": "inimigo",
     "grupo": "Bola de Fogo",
     "dano_dado": "2d3",
     "atributo_dano": "inteligencia",
