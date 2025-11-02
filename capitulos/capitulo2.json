@@ -1,7 +1,7 @@
 {
   "capitulo2": [
 
-    {
+  {
       "id": "msg1",
       "texto": "Após vocês saírem do porão, o homem encapuzado guia vocês até o quintal da igreja, onde parece um centro de treinamento improvisado...",
       "delaywait": 2000,
@@ -17,8 +17,8 @@
       "id": "msg2",
       "texto": "- É aqui que iremos treinar, ensinarei para vocês uma nova habilidade... - Diz o homem encapuzado, apontando para um alvo, que estava logo no centro do local.",
       "delaywait": 1000,
-      "delaymsg": 120000,
-      "foto": "https://youtube.com/shorts/Y1yeHC58ZXA?si=E7e04t_cYL9118Fw",
+      "delaymsg": 12000,
+      "foto": "",
       "centro": false,
       "corTexto": "#E0B683",
       "negrito": true,
@@ -69,11 +69,11 @@
     },
 
     {
-      "id": "msg8",
-      "texto": "- Parece que vocês aprenderam bem suas novas habilidades... Será muito útil em breve. - Diz o homem encapuzado.",
+      "id": "msg6",
+      "texto": "O homem encapuzado fecha a mão e o fogo no alvo se extingue... Do nada ele pega um cesto de madeira e vira na frente deles. '- É hora de vocês treinarem!",
       "delaywait": 1000,
-      "delaymsg": 9000,
-      "foto": "https://youtube.com/shorts/Y1yeHC58ZXA?si=E7e04t_cYL9118Fw",
+      "delaymsg": 13000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6DskNM1BEDydlo1MGlarhKuvZ5-tdGLv-BJWaElpLsdssi_mGnjzWOjPzZX0zC6AMbyJn8nQUc0XxP4L8dmyfRA5eNv58LshfS_3oF2poiWxZAXa0WFkqOJMi7Qxa82pZBpoeiUFKDMi-fIiypv8xWxLZrJxr4Pu7_KCvyAuVVejb3AYldMPtj4KLKL0/s1600/1761635121394.jpg",
       "centro": false,
       "corTexto": "#E0B683",
       "negrito": true,
@@ -91,19 +91,10 @@
 
     {
       "id": "msg8",
+      "texto": "- Parece que vocês aprenderam bem suas novas habilidades... Será muito útil em breve. - Diz o homem encapuzado.",
       "delaywait": 1000,
-      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji4-kqX2BrJreeABEc6N7arh2u8HvptbZwjJs6FPXikSRlKbod-TsBN7sHXBET6ksmjqa1HzorLshz5Jtg5N5iJqKLqV1rXXWouoULpxkPbNLe3K2rDF8dl8M6YWKfsPPi002-1chdtzC1FZ8GgYM9SBxVrsJNeWmvV2AknbxXTZWkJwpV2hHA753625s/s1600/1759622894880~2.jpg",
-      "tipo": "batalha",
-      "inimigo": "rato",
-      "quantidade": 2
-    },
-
-    {
-      "id": "msg9",
-      "texto": "Após a batalha contra os ratos, os aventureiros seguiram limpando o porão. Explorando vocês encontraram muita caixas empoeiradas, muitos livros, e itens sem valor...",
-      "delaywait": 1000,
-      "delaymsg": 12000,
-      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw08keEb-o6qU8QLC4LXlKg3wmDJ0xrQ0gLjLrFxOOVyoeod0jlTVLa0Spoen_9Srkjc05xE6HeMVbNrduU5k_srypGJ1rpQ0fswgssXDEtK2RfUZ-QFccOBCQkHiDRXFnj477tp7uHt-JjvNnHLmeryiL_qUNXV9ndryS6QpwZLy1eWu3VJ5K-D857_w/s1600/1759997576134.jpg",
+      "delaymsg": 9000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2ZRt0Akd0QsnAvLuAyBEsWoBZLHdcgD6-RViV6nUye6VregHUQ6gVXZgEWaRQDAOVyyBAwFqdqVrW4nL2RmN6ZAZ9ZP6YF3jSIDp2R1uBtVIZ_miiYxuc6YZKP9RE-qdavEdjDbIwftlpGwy7ZYPvjIoVHub00X4YXS42vHYQjqG68GP1w5GfY4kzVus/s1600/1762107364340.jpg",
       "centro": false,
       "corTexto": "#E0B683",
       "negrito": true,
@@ -111,32 +102,23 @@
     },
 
     {
-      "id": "msg10",
-      "texto": "Logo no centro do porão, vocês encontram um baú fechado, onde parece ter algo de valor...",
+      "id": "msg9",
+      "texto": "Logo em seguida, vocês reparam em uma pessoa ao fundo sentada na palha, que aparenta ser um mendigo de idade. O homem encapuzado sinaliza para ele...",
       "delaywait": 1000,
-      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkXZnozq2CdiGf7JRTlmWPDbJ0G5R7U___I6U34FiWSzNJP9JLZAGp5KbxI8xUWxvT1mXtTLfJpAuUB-mM5DqMTWj9yfKkzXudPB__k5ql0h67XCI4SDI48zcebu8WRfP2WggXGrElei3L6pzz6lUVNkA-DJHpx3ERHHPjPY01w7y_UtTQ5n85AIh4GjA/s1600/1759997576134~2.jpg",
-      "tipo": "bau",
-      "botao": "Abrir Baú",
-      "vazio": "20",
+      "delaymsg": 11000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEHzVuE8_udHVRhopW0RYWVAUmxGYy8u9khZ4mitEjd5EZzMae6wLUZaB7VI3Ax94dDY0iwaRgmSLkIKbW_tfvkr2g_MM0k11sxc89v3LiW6Exk0B0vLhg6-2q3CRPkmgvfP3MiM0NVsgqgqUeqKGK27lLPo52aiOjis_xwgDhtQ2AXS9TpNk2iI6vR9s/s1600/1762108563756.jpg",
       "centro": false,
-      "corTexto": "#006400",
+      "corTexto": "#E0B683",
       "negrito": true,
-      "corBalao": "#ffc107",
-      "recompensa": {
-      "ouro": "1d10",
-      "loot": [
-        { "item": "faca1", "chance": 50, "quantidade": 1 },
-        { "item": "queijo1", "chance": 80, "quantidade": "1d2" }
-      ]
-      }
+      "corBalao": "#4a412a"
     },
 
     {
       "id": "msg11",
-      "texto": "Após abrirem o baú, vocês ouvem um 'Zzzzzt' vindo de trás do baú... Ao chegarem perto para checar, uma cobra dá um bote!",
+      "texto": "",
       "delaywait": 1000,
-      "delaymsg": 10000,
-      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVGoFr_n6KjjflByAtcblRhyXFh_jT8GVzk_21t5STVWh5AUH0fyrbTIIIPs09tzLswaonO3bJuvYqj8P64R2ju8Oid0IQdt_fhHe8D7yE-BCXO0qCgVAuq5Mmul2cLRLOIdy0E_ZbJvE8WBKD2K36x2M8SmvXHQUJzZTBabjjwOqMZwqfEFMJ0ZkdYCo/s1600/1760244492662.jpg",
+      "delaymsg": 7000,
+      "foto": "https://youtube.com/shorts/Y1yeHC58ZXA?si=kIXuGI_2HveNoFIH",
       "centro": false,
       "corTexto": "#E0B683",
       "negrito": true,
@@ -146,131 +128,44 @@
     {
       "id": "msg12",
       "delaywait": 1000,
-      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji4-kqX2BrJreeABEc6N7arh2u8HvptbZwjJs6FPXikSRlKbod-TsBN7sHXBET6ksmjqa1HzorLshz5Jtg5N5iJqKLqV1rXXWouoULpxkPbNLe3K2rDF8dl8M6YWKfsPPi002-1chdtzC1FZ8GgYM9SBxVrsJNeWmvV2AknbxXTZWkJwpV2hHA753625s/s1600/1759622894880~2.jpg",
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8M-Cl6-WcaFoAD188eCw5iktdL36Z0EQtkEtHXu1kSqofDW_X08Isv9kOeEdrzjp__37xxF1173iOhXdI2MaDPRUvxRDFL5q8jU6e6q9dF0whHWJQuq014I4QCGxU-tLbyfjNJrmwzONiglFIi86sEu8crVoOdsLKMrDlM1PN9-Ei78K3MxZrHo2YTKI/s1600/1761636684721~2.jpg",
       "tipo": "batalha",
       "inimigo": "cobra",
-      "quantidade": 1
+      "quantidade": 3
     },
 
     {
       "id": "msg13",
-      "texto": "Após o susto que vocês tomaram, a limpeza continua. Uma grande parte já havia sido concluída, mas a limpeza das teias ainda estava sendo um grande problema...",
+      "texto": "Parece que o mendigo idoso acabou deixando cair alguma coisa...",
       "delaywait": 1000,
-      "delaymsg": 13000,
-      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0BlQDJIXWnCtABc4zRWbkJymBuqU-dN6Nxt4sbqErECT7JKfsskncJDcqLW90VKQqGVroEELQhogbtG6SPYdoVKQLFAoS72cpoBlYSbSdSib6zS3wWA0w-pHN9wh8b-71cfO1NHGmzcxdLZiVWWdjPVUw1ETXRR9G2xx7KQxIYe-bBPU8lP-uJnUkEDw/s1600/1760342257295.jpg",
-      "centro": false,
-      "corTexto": "#E0B683",
-      "negrito": true,
-      "corBalao": "#4a412a"
-    },
-
-    {
-      "id": "msg14",
-      "texto": "Quanto mais perto vocês chegavam das teias, maior era a movimentação nelas, como se algo estivessem os observando... Seria uma infestação descendo pelas teias?!",
-      "delaywait": 1000,
-      "delaymsg": 13000,
-      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0BlQDJIXWnCtABc4zRWbkJymBuqU-dN6Nxt4sbqErECT7JKfsskncJDcqLW90VKQqGVroEELQhogbtG6SPYdoVKQLFAoS72cpoBlYSbSdSib6zS3wWA0w-pHN9wh8b-71cfO1NHGmzcxdLZiVWWdjPVUw1ETXRR9G2xx7KQxIYe-bBPU8lP-uJnUkEDw/s1600/1760342257295.jpg",
-      "centro": false,
-      "corTexto": "#E0B683",
-      "negrito": true,
-      "corBalao": "#4a412a"
-    },
-
-    {
-      "id": "msg15",
-      "delaywait": 1000,
-      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji4-kqX2BrJreeABEc6N7arh2u8HvptbZwjJs6FPXikSRlKbod-TsBN7sHXBET6ksmjqa1HzorLshz5Jtg5N5iJqKLqV1rXXWouoULpxkPbNLe3K2rDF8dl8M6YWKfsPPi002-1chdtzC1FZ8GgYM9SBxVrsJNeWmvV2AknbxXTZWkJwpV2hHA753625s/s1600/1759622894880~2.jpg",
-      "tipo": "batalha",
-      "inimigo": "aranha",
-      "quantidade": 5
-    },
-
-    {
-      "id": "msg16",
-      "texto": "Enfim tudo limpo, um excelente trabalho dos aventureiros. Todas as teias e suas ameaças foram exterminadas.",
-      "delaywait": 1000,
-      "delaymsg": 8000,
-      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinJWGR6O9P_OKgVDwYDB4B9Vd3JRfjLY6MjCRNAfBKoSvTXWVv7Pm5LtsuopEONl7ZrPiydMMyoHBTMY8EWBLTkT_vYM999paJIHjZUGV2GD9zom9mv0EZZ0J8_FoS79OjT-Fa2_8BCi6HPBJLfHA6U5Qe2R_o-lZ_9lFPuNA4-iy-UzWPFXEW56_HkyU/s1600/1760341767888.jpg",
-      "centro": false,
-      "corTexto": "#E0B683",
-      "negrito": true,
-      "corBalao": "#4a412a"
-    },
-
-    {
-      "id": "msg17",
-      "texto": "Derrepente um barulho estranho começa a vir da parede, aparentemente não tão pequeno... De um buraco grande na parede, algo grande emerge!",
-      "delaywait": 1000,
-      "delaymsg": 12000,
-      "foto": "",
-      "centro": false,
-      "corTexto": "#E0B683",
-      "negrito": true,
-      "corBalao": "#4a412a"
-    },
-
-    {
-      "id": "msg18",
-      "delaywait": 1000,
-      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji4-kqX2BrJreeABEc6N7arh2u8HvptbZwjJs6FPXikSRlKbod-TsBN7sHXBET6ksmjqa1HzorLshz5Jtg5N5iJqKLqV1rXXWouoULpxkPbNLe3K2rDF8dl8M6YWKfsPPi002-1chdtzC1FZ8GgYM9SBxVrsJNeWmvV2AknbxXTZWkJwpV2hHA753625s/s1600/1759622894880~2.jpg",
-      "tipo": "batalha",
-      "inimigo": "ratazana",
-      "quantidade": 1
-    },
-
-    {
-      "id": "msg19",
-      "texto": "Que batalha! Espero que vocês não tenham contraído raiva... Logo no final da batalha, a porta do porão se abre e o homem encapuzado entra...",
-      "delaywait": 1000,
-      "delaymsg": 12000,
-      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinJWGR6O9P_OKgVDwYDB4B9Vd3JRfjLY6MjCRNAfBKoSvTXWVv7Pm5LtsuopEONl7ZrPiydMMyoHBTMY8EWBLTkT_vYM999paJIHjZUGV2GD9zom9mv0EZZ0J8_FoS79OjT-Fa2_8BCi6HPBJLfHA6U5Qe2R_o-lZ_9lFPuNA4-iy-UzWPFXEW56_HkyU/s1600/1760341767888.jpg",
-      "centro": false,
-      "corTexto": "#E0B683",
-      "negrito": true,
-      "corBalao": "#4a412a"
-    },
-
-    {
-      "id": "msg20",
-      "texto": "- Parabéns aventureiros, vocês passaram no teste! O que vocês acham de serem meus recrutas? Ensinarei vocês diversas artes secretas. - Diz o homem encapuzado.",
-      "delaywait": 1000,
-      "delaymsg": 15000,
-      "foto": "",
-      "centro": false,
-      "corTexto": "#E0B683",
-      "negrito": true,
-      "corBalao": "#4a412a"
-    },
-
-    {
-      "id": "msg21",
-      "texto": "Vocês não pensam muito e logo decidem aceitar... Logo então o homem encapuzado abre uma bolsa de couro e pega umas moedas de ouro como pagamento.",
-      "delaywait": 1000,
-      "foto": "",
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiPRY9kMz43kRc2F5py4FMfgHFypoFn216RZJKWi0ZrBV9b9Xbz0bJ22HOUdcWAry2glp5BOF1SA9B3wWfvAA8QoygpYBtkuqtDiC_qmpHtxAZUCBpCfB1mOZqU4jMMUShxnnsgI1-h-pccJM_mMjjwB506sEBvK2XTrqcjaN_YkRVStRZGk_aqivZDOI/s1600/1762126813395.jpg",
       "tipo": "bau",
-      "botao": "Receber Recompensa",
-      "vazio": "0",
+      "botao": "Abrir a sacola de couro",
+      "vazio": "20",
       "centro": false,
       "corTexto": "#006400",
       "negrito": true,
       "corBalao": "#ffc107",
-      "fimcap": 1,
       "recompensa": {
-      "ouro": "50d1"
+      "ouro": "10d2",
+      "loot": [
+        { "item": "faca1", "chance": 50, "quantidade": 1 },
+        { "item": "queijo1", "chance": 80, "quantidade": "2d2" }
+      ]
       }
     },
 
     {
-      "id": "msg22",
-      "texto": "Capítulo 1 finalizado.",
+      "id": "msg14",
+      "texto": "Após abrirem o baú, vocês ouvem um 'Zzzzzt' vindo de trás do baú... Ao chegarem perto para checar, uma cobra dá um bote!",
       "delaywait": 1000,
-      "delaymsg": 15000,
-      "foto": "",
-      "centro": true,
-      "corTexto": "#FF0000",
+      "delaymsg": 10000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVGoFr_n6KjjflByAtcblRhyXFh_jT8GVzk_21t5STVWh5AUH0fyrbTIIIPs09tzLswaonO3bJuvYqj8P64R2ju8Oid0IQdt_fhHe8D7yE-BCXO0qCgVAuq5Mmul2cLRLOIdy0E_ZbJvE8WBKD2K36x2M8SmvXHQUJzZTBabjjwOqMZwqfEFMJ0ZkdYCo/s1600/1760244492662.jpg",
+      "centro": false,
+      "corTexto": "#E0B683",
       "negrito": true,
-      "corBalao": "#ffc107"
-    }
+      "corBalao": "#4a412a"
+    },
 
 
 
