@@ -110,6 +110,7 @@
       "id": "msg10",
       "texto": "Logo no centro do porão, vocês encontram um baú fechado, onde parece ter algo de valor...",
       "delaywait": 1000,
+      "delaymsg": 12000,
       "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkXZnozq2CdiGf7JRTlmWPDbJ0G5R7U___I6U34FiWSzNJP9JLZAGp5KbxI8xUWxvT1mXtTLfJpAuUB-mM5DqMTWj9yfKkzXudPB__k5ql0h67XCI4SDI48zcebu8WRfP2WggXGrElei3L6pzz6lUVNkA-DJHpx3ERHHPjPY01w7y_UtTQ5n85AIh4GjA/s1600/1759997576134~2.jpg",
       "tipo": "bau",
       "botao": "Abrir Baú",
