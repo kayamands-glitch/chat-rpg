@@ -109,6 +109,7 @@
 
     "areia_mendigo": {
       "nome": "Punhado de Areia",
+      "tipo": "magico",
       "dano_dado": "3d3",
       "atributo_dano": "inteligencia",
       "dado_acerto": "18",
