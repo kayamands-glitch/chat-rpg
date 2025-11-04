@@ -90,6 +90,43 @@
       "stack": true
       }
       }
+    },
+
+    "queijo_mendigo": {
+      "nome": "Pedaço de Queijo",
+      "tipo": "magico",
+      "alvo": "self",
+      "grupo": "Pedaço de Queijo",
+      "dado_acerto": "15",
+      "custo_mana": 5,
+      "skill_turnos": 1,
+      "descricao": "Um pedaço de queijo ingerido curando vida.",
+      "efeito": {
+      "acao": "cura_vida",
+      "quantidade_dado": "10d1"
+      }
+    },
+
+    "areia_mendigo": {
+      "nome": "Punhado de Areia",
+      "dano_dado": "3d3",
+      "atributo_dano": "inteligencia",
+      "dado_acerto": "18",
+      "custo_mana": 5,
+      "skill_turnos": 1,
+      "descricao": "Um punhado de areia nos olhos.",
+      "condicao": {
+      "nome": "blind",
+      "turnos": 3
+      }
+    },
+
+    "soco_mendigo": {
+      "nome": "Soco",
+      "dano_dado": "2d3",
+      "atributo_dano": "forca",
+      "custo_mana": 0,
+      "descricao": "Um soco desesperado."
     }
 
 
