@@ -204,7 +204,75 @@
 
   }
 
+"mendigo": {
+    "nome": "Mendigo",
+    "descricao_curta": "Um mendigo idoso, pidão e faminto.",
+    "avatar_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdE1MEbMlYjK7el09eVAy2oYoiH8FN0hynyPlY7bSkIE_xNv4sIbdxP9CEks9TO2xx-C80r_BdseSzuCX4z-zfVBeT7Rzr6PP-cL3qDEse9epDI8azFUFLfjUnfW3OcF7GMwLz5tkcUoQt-Dku9OwqSKmtTIvZsGoW2PiNkL-eWB8RFg2bEtxCMWFcCYk/s1600/IMG-20251104-WA0094.jpg",
+    "fuga": "15",
+    "status": {
+      "vida": 50,
+      "mana": 100,
+      "destreza": 2,
+      "forca": 1,
+      "inteligencia": 4,
+      "defesa": 2
+    },
+    "recompensa": {
+      "xp": 30,
+      "ouro": "3d4",
+      "loot": [
 
+        {
+          "item": "pedra1",
+          "chance": 30,   
+          "quantidade": 2 
+        },
+       {
+          "item": "madeira1",
+          "chance": 30,   
+          "quantidade": 2 
+        },
+        {
+          "item": "queijo1",
+          "chance": 50,   
+          "quantidade": 2
+        },
+        {
+          "item": "linho1",
+          "chance": 30,   
+          "quantidade": 1 
+        },
+        {
+          "item": "barbamendigo1",
+          "chance": 50,   
+          "quantidade": 2
+        }, 
+        {
+          "item": "calca1",
+          "chance": 30,   
+          "quantidade": 1
+        }
+
+      ]
+    },
+
+    "ataques": [
+      {
+        "id": "queijo_mendigo",
+        "prioridade": 1,
+        "vida": 50
+      },
+      {
+        "id": "areia_mendigo",
+        "prioridade": 2,
+        "vida": 100
+      },
+      {
+        "id": "soco_mendigo"
+      }
+    ]
+
+  }
 
 
 
