@@ -211,10 +211,10 @@
     "fuga": "15",
     "status": {
       "vida": 50,
-      "mana": 100,
-      "destreza": 2,
-      "forca": 1,
-      "inteligencia": 4,
+      "mana": 50,
+      "destreza": 3,
+      "forca": 2,
+      "inteligencia": 5,
       "defesa": 2
     },
     "recompensa": {
