@@ -76,7 +76,7 @@
     "tipo": "fisica",
     "alvo": "enemy",
     "grupo": "Tiro Certo",
-    "dano_dado": "1d8",
+    "dano_dado": "2d2",
     "atributo_dano": "destreza",
     "dado_acerto": "10",
     "custo_mana": 4,
