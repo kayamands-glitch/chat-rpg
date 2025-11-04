@@ -32,7 +32,7 @@
     "dano_dado": "1d4",
     "atributo_dano": "destreza",
     "dado_acerto": "12",
-    "custo_mana": 3,
+    "custo_mana": 2,
     "skill_turnos": 1,
     "descricao": "Um corte rápido que pode envenenar o alvo.",
     "condicao": {
@@ -79,7 +79,7 @@
     "dano_dado": "2d2",
     "atributo_dano": "destreza",
     "dado_acerto": "10",
-    "custo_mana": 4,
+    "custo_mana": 3,
     "skill_turnos": 1,
     "descricao": "Um disparo preciso que causa dano."
   }
