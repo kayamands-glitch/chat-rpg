@@ -1,4 +1,4 @@
-1d8d8
+{
   "grito_de_guerra1": {
     "classeId": 1,
     "nome": "Grito de Guerra I",
@@ -74,7 +74,7 @@
     "tipo": "fisica",
     "alvo": "enemy",
     "grupo": "Tiro Certo",
-    "dano_dado": "2d2",
+    "dano_dado": "1d8",
     "atributo_dano": "destreza",
     "dado_acerto": "10",
     "custo_mana": 4,
