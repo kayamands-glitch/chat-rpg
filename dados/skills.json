@@ -1,4 +1,6 @@
 {
+
+  
   "grito_de_guerra1": {
     "classeId": 1,
     "nome": "Grito de Guerra I",
@@ -81,4 +83,7 @@
     "skill_turnos": 1,
     "descricao": "Um disparo preciso que causa dano."
   }
+
+
+  
 }
