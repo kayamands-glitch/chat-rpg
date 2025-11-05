@@ -15,9 +15,9 @@
     "narrativa_url": "https://kayamands-glitch.github.io/chat-rpg/capitulos/capitulo2.json"
   }
   
-  "cap2": {
-    "numero": 2,
-    "titulo": "O Treinamento",
+  "cap3": {
+    "numero": 3,
+    "titulo": "Teste",
     "requisitoLevel": 2,
     "requisitoCap": 1,
     "narrativa_url": "https://kayamands-glitch.github.io/chat-rpg/capitulos/capitulo2.json"
