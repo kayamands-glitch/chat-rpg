@@ -7,19 +7,16 @@
       "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8M-Cl6-WcaFoAD188eCw5iktdL36Z0EQtkEtHXu1kSqofDW_X08Isv9kOeEdrzjp__37xxF1173iOhXdI2MaDPRUvxRDFL5q8jU6e6q9dF0whHWJQuq014I4QCGxU-tLbyfjNJrmwzONiglFIi86sEu8crVoOdsLKMrDlM1PN9-Ei78K3MxZrHo2YTKI/s1600/1761636684721~2.jpg",
       "tipo": "batalha",
       "inimigo": "cobra",
-      "quantidade": 3
+      "quantidade": 1
     },
 
     {
       "id": "msg2",
-      "texto": "- É aqui que iremos treinar, ensinarei para vocês uma nova habilidade... - Diz o homem encapuzado, apontando para um alvo, que estava logo no centro do local.",
       "delaywait": 1000,
-      "delaymsg": 12000,
-      "foto": "",
-      "centro": false,
-      "corTexto": "#E0B683",
-      "negrito": true,
-      "corBalao": "#4a412a"
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8M-Cl6-WcaFoAD188eCw5iktdL36Z0EQtkEtHXu1kSqofDW_X08Isv9kOeEdrzjp__37xxF1173iOhXdI2MaDPRUvxRDFL5q8jU6e6q9dF0whHWJQuq014I4QCGxU-tLbyfjNJrmwzONiglFIi86sEu8crVoOdsLKMrDlM1PN9-Ei78K3MxZrHo2YTKI/s1600/1761636684721~2.jpg",
+      "tipo": "batalha",
+      "inimigo": "cobra",
+      "quantidade": 3
     },
 
     {
