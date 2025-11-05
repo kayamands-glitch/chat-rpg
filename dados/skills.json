@@ -9,6 +9,7 @@
     "grupo": "Grito de Guerra",
     "dano_dado": null,
     "atributo_dano": "inteligencia",
+    "dado_acerto": 5,
     "custo_mana": 2,
     "skill_turnos": 0,
     "descricao": "Aumenta seu ataque no próximo turno.",
