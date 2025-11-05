@@ -41,7 +41,7 @@
       "nome": "Jato de Teia",
       "dano_dado": "1d3",
       "atributo_dano": "forca",
-      "dado_acerto": "1",
+      "dado_acerto": 1,
       "custo_mana": 5,
       "skill_turnos": 3,
       "descricao": "Um jato de teia pegajosa.",
