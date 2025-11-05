@@ -21,26 +21,20 @@
 
     {
       "id": "msg3",
-      "texto": "Com um estalar de dedos, a mão do homem encapuzado fica em chamas... Logo em seguida, uma bola de fogo é arremessada, fazendo o alvo queimar em chamas...",
       "delaywait": 1000,
-      "delaymsg": 13000,
-      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEib8MQj0Y4LmLnsqoFtmB-4M2z0j-YXu0oTCiH4vJzGr-RGBTBfx2_gFaIal_raGXJYJoM2r6tIFHmCFqjLKzjOp55xaXjILhp6hWWvXuHvjEwuHbACraUNsbkkTW2B6XtPix_dQWLNukXQLjveV3fxvkb1yiLTnvR-1FKG3MfKB3kxtYFb4cyXxPgik/s1600/1761632460142.jpg",
-      "centro": false,
-      "corTexto": "#E0B683",
-      "negrito": true,
-      "corBalao": "#4a412a"
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8M-Cl6-WcaFoAD188eCw5iktdL36Z0EQtkEtHXu1kSqofDW_X08Isv9kOeEdrzjp__37xxF1173iOhXdI2MaDPRUvxRDFL5q8jU6e6q9dF0whHWJQuq014I4QCGxU-tLbyfjNJrmwzONiglFIi86sEu8crVoOdsLKMrDlM1PN9-Ei78K3MxZrHo2YTKI/s1600/1761636684721~2.jpg",
+      "tipo": "batalha",
+      "inimigo": "cobra",
+      "quantidade": 1
     },
 
     {
       "id": "msg4",
-      "texto": "Vocês olham espantados, mas muito entusiasmados. O homem encapuzado, toca o ombro de vocês, uma sensação de um conhecimento novo é passado...",
       "delaywait": 1000,
-      "delaymsg": 13000,
-      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXB2ITsWSAvT9IoBXD_wIQFV05PgE_zBt1fD_4EAZyEmZrt9D_TruvF2tocta82giQNK316IKWTECqRwMw82SScBdL0kotjbNJ6ZU1D9x3ltyblYPa3nHQFtC8Kiamv-scBRIMNt2t9Iv2pNjwAh2DsaMXCfc_PjF83JkteQvmJxVJw1ztJD-6-TUKayk/s1600/1761632842453.jpg",
-      "centro": false,
-      "corTexto": "#E0B683",
-      "negrito": true,
-      "corBalao": "#4a412a"
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8M-Cl6-WcaFoAD188eCw5iktdL36Z0EQtkEtHXu1kSqofDW_X08Isv9kOeEdrzjp__37xxF1173iOhXdI2MaDPRUvxRDFL5q8jU6e6q9dF0whHWJQuq014I4QCGxU-tLbyfjNJrmwzONiglFIi86sEu8crVoOdsLKMrDlM1PN9-Ei78K3MxZrHo2YTKI/s1600/1761636684721~2.jpg",
+      "tipo": "batalha",
+      "inimigo": "cobra",
+      "quantidade": 1
     },
 
     {
