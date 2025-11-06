@@ -126,7 +126,37 @@
     "sucata": 4,
     "dano": "2d2",
     "slot": "arma"
+  },
+
+"linho1": {
+    "nome": "Linho (P)",
+    "descricao": "Um barbante usado a milênios, feita de fibras de caule... Na mão de um artesão pode ser útil.",
+    "tipo": "misc",
+    "raridade": "1",
+    "valor": 3,
+    "sucata": 3
+  },
+
+"barbamendigo1": {
+    "nome": "Barba de Mendigo",
+    "descricao": "Uma barba retirada de um mendigo... Porque diabos alguém pegaria isso?",
+    "tipo": "misc",
+    "raridade": "1",
+    "valor": 2,
+    "sucata": 2
+  },
+
+  "calca1": {
+    "nome": "Calça Esfarrapada",
+    "descricao": "Uma calça rasgada, toda esfarrapada. Mas já esconde os países baixos.",
+    "tipo": "calca",
+    "raridade": "1",
+    "valor": 5,
+    "sucata": 2,
+    "defesa": 1,
+    "slot": "calca"
   }
+
 
 
 
