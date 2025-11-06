@@ -272,7 +272,73 @@
       }
     ]
 
+  },
+
+"cachorro": {
+    "nome": "Cachorro de Rua",
+    "descricao_curta": "Um cachorro que vive na rua.",
+    "avatar_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcBjMirGBdYT7RCV6caQgHID1y-_fjbFhHucimy8CkcqQcUJtZnneOgY2dAmISc0Ym3Jw5WMisJdZFdtnVi4ymz32vj5RFu3FxATfz2ZXI1Q9uG4B7vQMACmdm2J-HmQOhWwIkrnB5dt7L6HWRsQ557eG1-rJHY5OT_SbSngFhoc130VzxFyUoYo9mIMk/s1600/1762417545696.jpg",
+    "fuga": "20",
+    "status": {
+      "vida": 30,
+      "mana": 20,
+      "destreza": 4,
+      "forca": 6,
+      "inteligencia": 2,
+      "defesa": 2
+    },
+    "recompensa": {
+      "xp": 20,
+      "ouro": "3d3",
+      "loot": [
+
+        {
+          "item": "pedra1",
+          "chance": 30,   
+          "quantidade": 2 
+        },
+       {
+          "item": "madeira1",
+          "chance": 30,   
+          "quantidade": 2 
+        },
+        {
+          "item": "dentecanino1",
+          "chance": 50,   
+          "quantidade": 2
+        },
+        {
+          "item": "unhacanina1",
+          "chance": 50,   
+          "quantidade": 2
+        }, 
+        {
+          "item": "capacete1",
+          "chance": 30,   
+          "quantidade": 1
+        }
+
+      ]
+    },
+
+    "ataques": [
+      {
+        "id": "raiva_cachorro",
+        "prioridade": 1,
+        "vida": 100
+      },
+      {
+        "id": "sarna_cachorro",
+        "prioridade": 2,
+        "vida": 100
+      },
+      {
+        "id": "mordida_cachorro"
+      }
+    ]
+
   }
+
 
 
 
