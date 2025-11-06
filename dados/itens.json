@@ -160,7 +160,7 @@
   "capacete1": {
     "nome": "Chapéu de Palha",
     "descricao": "Um chapéu de palha. Inútil para se proteger, mas pelo menos agora você tem estilo.",
-    "tipo": "calca",
+    "tipo": "capacete",
     "raridade": "1",
     "valor": 5,
     "sucata": 2,
