@@ -116,7 +116,7 @@
       "descricao": "Um punhado de areia nos olhos.",
       "condicao": {
       "nome": "blind",
-      "acerto_removido": 10,
+      "acerto_removido": 5,
       "turnos": 3
       }
     },
