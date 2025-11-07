@@ -159,7 +159,7 @@
       "descricao": "Uma patada contagiante com sarna.",
       "condicao": {
       "nome": "itch",
-      "chance": 90,
+      "chance": 30,
       "turnos": 5
       }
     }
