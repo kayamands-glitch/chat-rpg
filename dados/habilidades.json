@@ -127,8 +127,43 @@
       "atributo_dano": "forca",
       "custo_mana": 0,
       "descricao": "Um soco desesperado."
-    }
+    },
 
+"mordida_cachorro": {
+      "nome": "Mordida",
+      "dano_dado": "2d5",
+      "atributo_dano": "forca",
+      "custo_mana": 0,
+      "descricao": "Uma mordida faminta."
+    },
+
+"raiva_cachorro": {
+      "nome": "Mordida Raivosa",
+      "dano_dado": "3d4",
+      "atributo_dano": "forca",
+      "custo_mana": 3,
+      "skill_turnos": 1,
+      "descricao": "Uma mordida contagiosa de raiva.",
+      "condicao": {
+      "nome": "rage",
+      "turnos": 1
+      }
+    },
+
+    "sarna_cachorro": {
+      "nome": "Patada Sarnenta",
+      "dano_dado": "3d3",
+      "atributo_dano": "forca",
+      "custo_mana": 2,
+      "skill_turnos": 3,
+      "descricao": "Uma patada contagiante com sarna.",
+      "condicao": {
+      "nome": "itch",
+      "chance": 30,
+      "turnos": 5
+      }
+    }
+    
 
 
 
