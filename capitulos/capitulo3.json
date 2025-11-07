@@ -1,6 +1,48 @@
 {
   "capitulo3": [
 
+
+
+    {
+      "id": "msg18",
+      "texto": "Após a batalha, o homem encapuzado dá uns passos à frente de vocês. Lentamente ele se vira, ficando de frente para vocês...",
+      "delaywait": 1000,
+      "delaymsg": 9000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju5fuVYPyDCYCAyYghNEwE-fv-tPwQaURcjB8RBtQ0ITezKlOCFj197PcTeNAwl_UkWOslDOGzMQ8y7Ez0XRIYvuUVJkmv6vL7AKTIG7YF0O0d4Rxn7cloRSnxzj-gBCOynW29I639r8_Zx1T_nDwQtXafj_vibWiEj7qpV1Gw4_bQ6aWkJ1cNm2X-zfo/s1600/1762498417337.jpg",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg19",
+      "texto": "- Parece que vocês evoluiram bastante em um dia de treinamento, está na hora de botar em prática! - Uma sombra começa a se criar em volta do homem encapuzado, crescendo cada vez mais.",
+      "delaywait": 1000,
+      "delaymsg": 15000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVMDqXFjkkDBAfLfyz1NfZ_lf89msoRwdC73jAWtjrL4M5AoRpK7hi0GYoOwWuR7-2I7UkYMZGCdh-HgE8W8kPn4NyhtozcHQpdecblVa4WChLrLfVJWxaIgUMNSCT9t9u39mDHFOZSz2FojQ6tzkgk_LYPnxEnUAho3cwM66agpzZgxGKZazt7fV7xYE/s1600/1762499869198.jpg",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg20",
+      "texto": "Em poucos segundos uma sombra negra erradia do homem encapuzado, encobrindo todo o seu corpo. - Preparem-se! - Diz o homem encapuzado com uma voz sombria.",
+      "delaywait": 1000,
+      "delaymsg": 12000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLK2FHlkH0sm-VpzuuDZuXXSaoeMGNko0MogaYBlQ9w-iYZPLeGyEdrcpQb6FhbDs7Puwpl7l5bc_W7obaH1dMtAUj-Sv-FqaRrx0r0yCEdqTg5e3q0yItNQ2YA_fexB4lRIFgHFYYjbqYimEBZjX8W03yQXEgoA80RY1BrGXNi8rs-HNgJANX7rFk2ks/s1600/1762499932998.jpg",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+
+
+
+    
   {
       "id": "msg1",
       "delaywait": 1000,
