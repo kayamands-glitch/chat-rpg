@@ -254,8 +254,8 @@
       "id": "msg21",
       "texto": "",
       "delaywait": 1000,
-      "delaymsg": 7000,
-      "foto": "https://youtube.com/shorts/SClxtWVlw3w?si=dTIwY-CBidv2FW7g",
+      "delaymsg": 8000,
+      "foto": "https://youtube.com/shorts/hSqMvjwxZJ8?si=0aTHHYBPIIVetTjd",
       "centro": false,
       "corTexto": "#E0B683",
       "negrito": true,
@@ -265,10 +265,52 @@
     {
       "id": "msg22",
       "delaywait": 1000,
-      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8M-Cl6-WcaFoAD188eCw5iktdL36Z0EQtkEtHXu1kSqofDW_X08Isv9kOeEdrzjp__37xxF1173iOhXdI2MaDPRUvxRDFL5q8jU6e6q9dF0whHWJQuq014I4QCGxU-tLbyfjNJrmwzONiglFIi86sEu8crVoOdsLKMrDlM1PN9-Ei78K3MxZrHo2YTKI/s1600/1761636684721~2.jpg",
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0HqWrRas_-uzDAvDj_JJFPpYWcSDRrPI-Pi9ziinrX1YmG4JsrlKMJU1su8zRzT3wxh4jeuVE_8vFEVhe0B1DOo2Ug00Ks2Z6G644EunBRjMbsK-iXz_pIKbj7VZPNygYu6LkLot1NMGh1XecLwG61Cnbxi1xAf4NYyK5KF_ZBM3cnMz-dapuULfT0-8/s1600/1762579065381~2.jpg",
       "tipo": "batalha",
-      "inimigo": "cachorro",
-      "quantidade": 2
+      "inimigo": "capuzsombra",
+      "quantidade": 1
+    },
+
+    {
+      "id": "msg23",
+      "texto": "A sombra do homem encapuzado se recolhe rapidamente para dentro do capuz e o ambiente volta a clarear...",
+      "delaywait": 1000,
+      "delaymsg": 11000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju5fuVYPyDCYCAyYghNEwE-fv-tPwQaURcjB8RBtQ0ITezKlOCFj197PcTeNAwl_UkWOslDOGzMQ8y7Ez0XRIYvuUVJkmv6vL7AKTIG7YF0O0d4Rxn7cloRSnxzj-gBCOynW29I639r8_Zx1T_nDwQtXafj_vibWiEj7qpV1Gw4_bQ6aWkJ1cNm2X-zfo/s1600/1762498417337.jpg",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg24",
+      "texto": "- Bom trabalho! Não imaginei que vocês se sairiam tão bem. Tomem, peguem essas moedas de ouro e voltem aqui amanhã. - Disse o homem encapuzado tirando umas moedas da bolsa.",
+      "delaywait": 1000,
+      "foto": "",
+      "tipo": "bau",
+      "botao": "Receber Recompensa",
+      "vazio": "0",
+      "centro": false,
+      "corTexto": "#006400",
+      "negrito": true,
+      "corBalao": "#ffc107",
+      "fimcap": 2,
+      "recompensa": {
+      "ouro": "50d1"
+      }
+    },
+
+    {
+      "id": "msg25",
+      "texto": "Capítulo 2 finalizado.",
+      "delaywait": 1000,
+      "delaymsg": 15000,
+      "foto": "",
+      "centro": true,
+      "corTexto": "#FF0000",
+      "negrito": true,
+      "corBalao": "#ffc107"
     }
 
 
