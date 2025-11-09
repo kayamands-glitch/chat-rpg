@@ -6,6 +6,19 @@
       "texto": "",
       "delaywait": 1000,
       "delaymsg": 7000,
+      "foto": "https://youtu.be/VqGl4I0Jm2I",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+
+    {
+      "id": "msg1",
+      "texto": "",
+      "delaywait": 1000,
+      "delaymsg": 7000,
       "foto": "https://youtu.be/ec9tcByE76Q",
       "centro": false,
       "corTexto": "#E0B683",
