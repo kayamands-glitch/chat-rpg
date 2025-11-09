@@ -337,6 +337,87 @@
       }
     ]
 
+  },
+
+"capuzsombra": {
+    "nome": "Sombra",
+    "descricao_curta": "Uma sombra do homem encapuzado.",
+    "avatar_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpVm6pMWtBc1OiZi00bse1wbZqA-Hq1qYyVrtEKnBLJdQfmGUVyOAmOn5DypjtRkmRvhCBvdFuWByfgYqLoTBdjysQYF7T1u9zsTcd48cvgJqlIvhNWdvIAEk0W2Bk_LcisxJw8hh0qIrvBWEf0YnewMFQiz0KRNGdUo2p-Zq_APtxuXHm2L4X4tuCNec/s1600/1762579065381~2.jpg",
+    "fuga": "30",
+    "status": {
+      "vida": 100,
+      "mana": 150,
+      "destreza": 5,
+      "forca": 5,
+      "inteligencia": 8,
+      "defesa": 4
+    },
+    "recompensa": {
+      "xp": 80,
+      "ouro": "5d4",
+      "loot": [
+
+        {
+          "item": "pedra1",
+          "chance": 30,   
+          "quantidade": 3 
+        },
+       {
+          "item": "madeira1",
+          "chance": 30,   
+          "quantidade": 3
+        },
+       {
+          "item": "apple1",
+          "chance": 30,   
+          "quantidade": 1
+        },
+        {
+          "item": "linho1",
+          "chance": 30,   
+          "quantidade": 2
+        },
+        {
+          "item": "essenciasombria1",
+          "chance": 50,   
+          "quantidade": 1
+        }, 
+        {
+          "item": "espadacurta1",
+          "chance": 20,   
+          "quantidade": 1
+        }
+
+      ]
+    },
+
+    "ataques": [
+      {
+        "id": "invisivel_capuzsombra",
+        "prioridade": 1,
+        "vida": 20
+      },
+
+      {
+        "id": "fumaca_capuzsombra",
+        "prioridade": 2,
+        "vida": 100
+      },
+      {
+        "id": "escuridao_capuzsombra",
+        "prioridade": 3,
+        "vida": 100
+      },
+      {
+        "id": "rajada_capuzsombra",
+        "prioridade": 4,
+        "vida": 100
+      },
+      {
+        "id": "chicote_capuzsombra"
+      }
+    ]
+
   }
 
 
