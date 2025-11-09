@@ -175,7 +175,7 @@
       "descricao": "Se esconde na fumaça.",
       "efeito": {
       "acao": "invisible",
-      "turnos": 1,
+      "turnos": 1
       }
     },
 
