@@ -154,6 +154,18 @@
     },
 
     {
+      "id": "msg2",
+      "texto": "",
+      "delaywait": 1000,
+      "delaymsg": 7000,
+      "foto": "https://youtu.be/nTpaFcFWclc",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
       "id": "msg12",
       "delaywait": 1000,
       "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji4-kqX2BrJreeABEc6N7arh2u8HvptbZwjJs6FPXikSRlKbod-TsBN7sHXBET6ksmjqa1HzorLshz5Jtg5N5iJqKLqV1rXXWouoULpxkPbNLe3K2rDF8dl8M6YWKfsPPi002-1chdtzC1FZ8GgYM9SBxVrsJNeWmvV2AknbxXTZWkJwpV2hHA753625s/s1600/1759622894880~2.jpg",
