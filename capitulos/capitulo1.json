@@ -74,6 +74,19 @@
     },
 
     {
+      "id": "msg1",
+      "texto": "",
+      "delaywait": 1000,
+      "delaymsg": 7000,
+      "foto": "https://youtu.be/Kkdj9Eu8YXw",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+
+    {
       "id": "msg7",
       "texto": "Vocês entraram no porão.",
       "delaywait": 1000,
