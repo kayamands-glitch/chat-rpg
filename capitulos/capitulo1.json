@@ -1,3 +1,4 @@
+
 {
   "capitulo1": [
 
@@ -74,19 +75,6 @@
     },
 
     {
-      "id": "msg1",
-      "texto": "",
-      "delaywait": 1000,
-      "delaymsg": 7000,
-      "foto": "https://youtu.be/Kkdj9Eu8YXw",
-      "centro": false,
-      "corTexto": "#E0B683",
-      "negrito": true,
-      "corBalao": "#4a412a"
-    },
-
-
-    {
       "id": "msg7",
       "texto": "Vocês entraram no porão.",
       "delaywait": 1000,
@@ -100,6 +88,18 @@
 
     {
       "id": "msg8",
+      "texto": "",
+      "delaywait": 1000,
+      "delaymsg": 7000,
+      "foto": "https://youtu.be/Kkdj9Eu8YXw",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg9",
       "delaywait": 1000,
       "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji4-kqX2BrJreeABEc6N7arh2u8HvptbZwjJs6FPXikSRlKbod-TsBN7sHXBET6ksmjqa1HzorLshz5Jtg5N5iJqKLqV1rXXWouoULpxkPbNLe3K2rDF8dl8M6YWKfsPPi002-1chdtzC1FZ8GgYM9SBxVrsJNeWmvV2AknbxXTZWkJwpV2hHA753625s/s1600/1759622894880~2.jpg",
       "tipo": "batalha",
@@ -108,7 +108,7 @@
     },
 
     {
-      "id": "msg9",
+      "id": "msg10",
       "texto": "Após a batalha contra os ratos, os aventureiros seguiram limpando o porão. Explorando vocês encontraram muita caixas empoeiradas, muitos livros, e itens sem valor...",
       "delaywait": 1000,
       "delaymsg": 12000,
@@ -120,7 +120,7 @@
     },
 
     {
-      "id": "msg10",
+      "id": "msg11",
       "texto": "Logo no centro do porão, vocês encontram um baú fechado, onde parece ter algo de valor...",
       "delaywait": 1000,
       "delaymsg": 12000,
@@ -142,7 +142,7 @@
     },
 
     {
-      "id": "msg11",
+      "id": "msg12",
       "texto": "Após abrirem o baú, vocês ouvem um 'Zzzzzt' vindo de trás do baú... Ao chegarem perto para checar, uma cobra dá um bote!",
       "delaywait": 1000,
       "delaymsg": 10000,
@@ -154,7 +154,7 @@
     },
 
     {
-      "id": "msg2",
+      "id": "msg13",
       "texto": "",
       "delaywait": 1000,
       "delaymsg": 7000,
@@ -166,7 +166,7 @@
     },
 
     {
-      "id": "msg12",
+      "id": "msg14",
       "delaywait": 1000,
       "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji4-kqX2BrJreeABEc6N7arh2u8HvptbZwjJs6FPXikSRlKbod-TsBN7sHXBET6ksmjqa1HzorLshz5Jtg5N5iJqKLqV1rXXWouoULpxkPbNLe3K2rDF8dl8M6YWKfsPPi002-1chdtzC1FZ8GgYM9SBxVrsJNeWmvV2AknbxXTZWkJwpV2hHA753625s/s1600/1759622894880~2.jpg",
       "tipo": "batalha",
@@ -175,7 +175,7 @@
     },
 
     {
-      "id": "msg13",
+      "id": "msg15",
       "texto": "Após o susto que vocês tomaram, a limpeza continua. Uma grande parte já havia sido concluída, mas a limpeza das teias ainda estava sendo um grande problema...",
       "delaywait": 1000,
       "delaymsg": 13000,
@@ -187,7 +187,7 @@
     },
 
     {
-      "id": "msg14",
+      "id": "msg16",
       "texto": "Quanto mais perto vocês chegavam das teias, maior era a movimentação nelas, como se algo estivessem os observando... Seria uma infestação descendo pelas teias?!",
       "delaywait": 1000,
       "delaymsg": 13000,
@@ -199,32 +199,11 @@
     },
 
     {
-      "id": "msg15",
-      "delaywait": 1000,
-      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji4-kqX2BrJreeABEc6N7arh2u8HvptbZwjJs6FPXikSRlKbod-TsBN7sHXBET6ksmjqa1HzorLshz5Jtg5N5iJqKLqV1rXXWouoULpxkPbNLe3K2rDF8dl8M6YWKfsPPi002-1chdtzC1FZ8GgYM9SBxVrsJNeWmvV2AknbxXTZWkJwpV2hHA753625s/s1600/1759622894880~2.jpg",
-      "tipo": "batalha",
-      "inimigo": "aranha",
-      "quantidade": 5
-    },
-
-    {
-      "id": "msg16",
-      "texto": "Enfim tudo limpo, um excelente trabalho dos aventureiros. Todas as teias e suas ameaças foram exterminadas.",
-      "delaywait": 1000,
-      "delaymsg": 8000,
-      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinJWGR6O9P_OKgVDwYDB4B9Vd3JRfjLY6MjCRNAfBKoSvTXWVv7Pm5LtsuopEONl7ZrPiydMMyoHBTMY8EWBLTkT_vYM999paJIHjZUGV2GD9zom9mv0EZZ0J8_FoS79OjT-Fa2_8BCi6HPBJLfHA6U5Qe2R_o-lZ_9lFPuNA4-iy-UzWPFXEW56_HkyU/s1600/1760341767888.jpg",
-      "centro": false,
-      "corTexto": "#E0B683",
-      "negrito": true,
-      "corBalao": "#4a412a"
-    },
-
-    {
       "id": "msg17",
-      "texto": "Derrepente um barulho estranho começa a vir da parede, aparentemente não tão pequeno... De um buraco grande na parede, algo grande emerge!",
+      "texto": "",
       "delaywait": 1000,
-      "delaymsg": 12000,
-      "foto": "",
+      "delaymsg": 7000,
+      "foto": "https://youtu.be/VqGl4I0Jm2I",
       "centro": false,
       "corTexto": "#E0B683",
       "negrito": true,
@@ -236,12 +215,57 @@
       "delaywait": 1000,
       "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji4-kqX2BrJreeABEc6N7arh2u8HvptbZwjJs6FPXikSRlKbod-TsBN7sHXBET6ksmjqa1HzorLshz5Jtg5N5iJqKLqV1rXXWouoULpxkPbNLe3K2rDF8dl8M6YWKfsPPi002-1chdtzC1FZ8GgYM9SBxVrsJNeWmvV2AknbxXTZWkJwpV2hHA753625s/s1600/1759622894880~2.jpg",
       "tipo": "batalha",
+      "inimigo": "aranha",
+      "quantidade": 5
+    },
+
+    {
+      "id": "msg19",
+      "texto": "Enfim tudo limpo, um excelente trabalho dos aventureiros. Todas as teias e suas ameaças foram exterminadas.",
+      "delaywait": 1000,
+      "delaymsg": 8000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinJWGR6O9P_OKgVDwYDB4B9Vd3JRfjLY6MjCRNAfBKoSvTXWVv7Pm5LtsuopEONl7ZrPiydMMyoHBTMY8EWBLTkT_vYM999paJIHjZUGV2GD9zom9mv0EZZ0J8_FoS79OjT-Fa2_8BCi6HPBJLfHA6U5Qe2R_o-lZ_9lFPuNA4-iy-UzWPFXEW56_HkyU/s1600/1760341767888.jpg",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg20",
+      "texto": "Derrepente um barulho estranho começa a vir da parede, aparentemente não tão pequeno... De um buraco grande na parede, algo grande emerge!",
+      "delaywait": 1000,
+      "delaymsg": 12000,
+      "foto": "",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg21",
+      "texto": "",
+      "delaywait": 1000,
+      "delaymsg": 7000,
+      "foto": "https://youtu.be/Grir_SASAK8",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg22",
+      "delaywait": 1000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji4-kqX2BrJreeABEc6N7arh2u8HvptbZwjJs6FPXikSRlKbod-TsBN7sHXBET6ksmjqa1HzorLshz5Jtg5N5iJqKLqV1rXXWouoULpxkPbNLe3K2rDF8dl8M6YWKfsPPi002-1chdtzC1FZ8GgYM9SBxVrsJNeWmvV2AknbxXTZWkJwpV2hHA753625s/s1600/1759622894880~2.jpg",
+      "tipo": "batalha",
       "inimigo": "ratazana",
       "quantidade": 1
     },
 
     {
-      "id": "msg19",
+      "id": "msg23",
       "texto": "Que batalha! Espero que vocês não tenham contraído raiva... Logo no final da batalha, a porta do porão se abre e o homem encapuzado entra...",
       "delaywait": 1000,
       "delaymsg": 12000,
@@ -253,7 +277,7 @@
     },
 
     {
-      "id": "msg20",
+      "id": "msg24",
       "texto": "- Parabéns aventureiros, vocês passaram no teste! O que vocês acham de serem meus recrutas? Ensinarei vocês diversas artes secretas. - Diz o homem encapuzado.",
       "delaywait": 1000,
       "delaymsg": 15000,
@@ -265,7 +289,7 @@
     },
 
     {
-      "id": "msg21",
+      "id": "msg25",
       "texto": "Vocês não pensam muito e logo decidem aceitar... Logo então o homem encapuzado abre uma bolsa de couro e pega umas moedas de ouro como pagamento.",
       "delaywait": 1000,
       "foto": "",
@@ -283,7 +307,7 @@
     },
 
     {
-      "id": "msg22",
+      "id": "msg26",
       "texto": "Capítulo 1 finalizado.",
       "delaywait": 1000,
       "delaymsg": 15000,
