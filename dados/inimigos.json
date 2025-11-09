@@ -393,28 +393,9 @@
 
     "ataques": [
       {
-        "id": "invisivel_capuzsombra",
-        "prioridade": 1,
-        "vida": 20
-      },
-
-      {
         "id": "fumaca_capuzsombra",
-        "prioridade": 2,
+        "prioridade": 1,
         "vida": 100
-      },
-      {
-        "id": "escuridao_capuzsombra",
-        "prioridade": 3,
-        "vida": 100
-      },
-      {
-        "id": "rajada_capuzsombra",
-        "prioridade": 4,
-        "vida": 100
-      },
-      {
-        "id": "chicote_capuzsombra"
       }
     ]
 
