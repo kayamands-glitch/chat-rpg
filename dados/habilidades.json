@@ -183,7 +183,7 @@
       "nome": "Cortina de Fumaça",
       "tipo": "magico",
       "alvo": "area",
-      "dano_dado": "5d3",
+      "dano_dado": "5d2",
       "atributo_dano": "inteligencia",
       "custo_mana": 5,
       "skill_turnos": 5,
