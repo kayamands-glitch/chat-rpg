@@ -162,8 +162,40 @@
       "chance": 30,
       "turnos": 5
       }
-    }
+    },
     
+    "invisivel_capuzsombra": {
+      "nome": "Invisibilidade",
+      "tipo": "magico",
+      "alvo": "self",
+      "grupo": "Invisibilidade",
+      "dado_acerto": 0,
+      "custo_mana": 5,
+      "skill_turnos": 3,
+      "descricao": "Se esconde na fumaça.",
+      "efeito": {
+      "acao": "invisible",
+      "turnos": 1,
+      }
+    },
+
+    "fumaca_capuzsombra": {
+      "nome": "Cortina de Fumaça",
+      "tipo": "magico",
+      "alvo": "area",
+      "dano_dado": "5d3",
+      "atributo_dano": "inteligencia",
+      "custo_mana": 5,
+      "skill_turnos": 1,
+      "descricao": "Uma cortina de fumaça afetando todo ambiente.",
+      "condicao": {
+      "nome": "smoke",
+      "danoturno": 5,
+      "turnos": 3
+      }
+    }
+
+
 
 
 
