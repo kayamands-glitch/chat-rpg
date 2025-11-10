@@ -175,7 +175,7 @@
       "descricao": "Se esconde na fumaça.",
       "efeito": {
       "acao": "invisible",
-      "turnos": 1
+      "turnos": 1,
       }
     },
 
@@ -183,16 +183,34 @@
       "nome": "Cortina de Fumaça",
       "tipo": "magico",
       "alvo": "area",
-      "dano_dado": "5d2",
+      "dano_dado": "4d3",
       "atributo_dano": "inteligencia",
       "custo_mana": 5,
-      "skill_turnos": 5,
+      "skill_turnos": 1,
       "descricao": "Uma cortina de fumaça afetando todo ambiente.",
       "condicao": {
       "nome": "smoke",
       "danoturno": 5,
       "turnos": 3
       }
+    },
+
+    "rajada_capuzsombra": {
+      "nome": "Rajada de Escuridão",
+      "tipo": "magico",
+      "dano_dado": "5d4",
+      "atributo_dano": "inteligencia",
+      "custo_mana": 10,
+      "skill_turnos": 2,
+      "descricao": "Uma rajada de escuridão asfixiante."
+    },
+
+    "chicote_capuzsombra": {
+      "nome": "Chicote de Escuridão",
+      "dano_dado": "2d5",
+      "atributo_dano": "forca",
+      "custo_mana": 0,
+      "descricao": "Uma chicoteada de escuridão."
     }
 
 
