@@ -404,7 +404,7 @@
       },
       {
         "id": "rajada_capuzsombra",
-        "prioridade":100
+        "prioridade": 3,
         "vida": 100
       },
       {
