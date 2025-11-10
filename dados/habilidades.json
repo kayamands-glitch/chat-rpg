@@ -198,7 +198,7 @@
     "rajada_capuzsombra": {
       "nome": "Rajada de Escuridão",
       "tipo": "magico",
-      "dano_dado": "5d4",
+      "dano_dado": "5d3",
       "atributo_dano": "inteligencia",
       "custo_mana": 10,
       "skill_turnos": 2,
