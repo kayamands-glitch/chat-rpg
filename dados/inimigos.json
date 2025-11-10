@@ -395,22 +395,16 @@
       {
         "id": "invisivel_capuzsombra",
         "prioridade": 1,
-        "vida": 100
+        "vida": 30
       },
-
       {
         "id": "fumaca_capuzsombra",
         "prioridade": 2,
         "vida": 100
       },
       {
-        "id": "escuridao_capuzsombra",
-        "prioridade": 3,
-        "vida": 100
-      },
-      {
         "id": "rajada_capuzsombra",
-        "prioridade": 4,
+        "prioridade":100
         "vida": 100
       },
       {
