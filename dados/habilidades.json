@@ -68,7 +68,7 @@
       "descricao": "Uma mordida contagiosa de raiva.",
       "condicao": {
       "nome": "rage",
-      "turnos": 1
+      "turnos": 3
       }
     },
 
