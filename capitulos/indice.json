@@ -24,10 +24,10 @@
   },
  
   "cap4": {
-    "numero": 3,
+    "numero": 4,
     "titulo": "Teste",
     "requisitoLevel": 1,
-    "narrativa_url": "https://kayamands-glitch.github.io/chat-rpg/capitulos/capitulo3.json"
+    "narrativa_url": "https://kayamands-glitch.github.io/chat-rpg/capitulos/capitulo4.json"
   }
    
 }
