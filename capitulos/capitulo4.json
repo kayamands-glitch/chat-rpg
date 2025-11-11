@@ -1,1 +1,382 @@
+{
+  "capitulo3": [
 
+    {
+      "id": "msg1",
+      "texto": "",
+      "delaywait": 1000,
+      "delaymsg": 7000,
+      "foto": "https://youtu.be/EEbEGeRqeeQ?si=uQrTx6l1BgvUsQ4J",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    
+    {
+      "id": "msg1",
+      "delaywait": 1000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8M-Cl6-WcaFoAD188eCw5iktdL36Z0EQtkEtHXu1kSqofDW_X08Isv9kOeEdrzjp__37xxF1173iOhXdI2MaDPRUvxRDFL5q8jU6e6q9dF0whHWJQuq014I4QCGxU-tLbyfjNJrmwzONiglFIi86sEu8crVoOdsLKMrDlM1PN9-Ei78K3MxZrHo2YTKI/s1600/1761636684721~2.jpg",
+      "tipo": "batalha",
+      "inimigo": "rato",
+      "quantidade": 1
+    },
+
+    {
+      "id": "msg2",
+      "delaywait": 1000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8M-Cl6-WcaFoAD188eCw5iktdL36Z0EQtkEtHXu1kSqofDW_X08Isv9kOeEdrzjp__37xxF1173iOhXdI2MaDPRUvxRDFL5q8jU6e6q9dF0whHWJQuq014I4QCGxU-tLbyfjNJrmwzONiglFIi86sEu8crVoOdsLKMrDlM1PN9-Ei78K3MxZrHo2YTKI/s1600/1761636684721~2.jpg",
+      "tipo": "batalha",
+      "inimigo": "rato",
+      "quantidade": 1
+    },
+
+    {
+      "id": "msg3",
+      "delaywait": 1000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8M-Cl6-WcaFoAD188eCw5iktdL36Z0EQtkEtHXu1kSqofDW_X08Isv9kOeEdrzjp__37xxF1173iOhXdI2MaDPRUvxRDFL5q8jU6e6q9dF0whHWJQuq014I4QCGxU-tLbyfjNJrmwzONiglFIi86sEu8crVoOdsLKMrDlM1PN9-Ei78K3MxZrHo2YTKI/s1600/1761636684721~2.jpg",
+      "tipo": "batalha",
+      "inimigo": "rato",
+      "quantidade": 1
+    },
+
+    {
+      "id": "msg4",
+      "delaywait": 1000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8M-Cl6-WcaFoAD188eCw5iktdL36Z0EQtkEtHXu1kSqofDW_X08Isv9kOeEdrzjp__37xxF1173iOhXdI2MaDPRUvxRDFL5q8jU6e6q9dF0whHWJQuq014I4QCGxU-tLbyfjNJrmwzONiglFIi86sEu8crVoOdsLKMrDlM1PN9-Ei78K3MxZrHo2YTKI/s1600/1761636684721~2.jpg",
+      "tipo": "batalha",
+      "inimigo": "rato",
+      "quantidade": 1
+    },
+
+    {
+      "id": "msg5",
+      "delaywait": 1000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8M-Cl6-WcaFoAD188eCw5iktdL36Z0EQtkEtHXu1kSqofDW_X08Isv9kOeEdrzjp__37xxF1173iOhXdI2MaDPRUvxRDFL5q8jU6e6q9dF0whHWJQuq014I4QCGxU-tLbyfjNJrmwzONiglFIi86sEu8crVoOdsLKMrDlM1PN9-Ei78K3MxZrHo2YTKI/s1600/1761636684721~2.jpg",
+      "tipo": "batalha",
+      "inimigo": "rato",
+      "quantidade": 1
+    },
+
+    {
+      "id": "msg6",
+      "delaywait": 1000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8M-Cl6-WcaFoAD188eCw5iktdL36Z0EQtkEtHXu1kSqofDW_X08Isv9kOeEdrzjp__37xxF1173iOhXdI2MaDPRUvxRDFL5q8jU6e6q9dF0whHWJQuq014I4QCGxU-tLbyfjNJrmwzONiglFIi86sEu8crVoOdsLKMrDlM1PN9-Ei78K3MxZrHo2YTKI/s1600/1761636684721~2.jpg",
+      "tipo": "batalha",
+      "inimigo": "rato",
+      "quantidade": 1
+    },
+
+    {
+      "id": "msg1",
+      "delaywait": 1000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8M-Cl6-WcaFoAD188eCw5iktdL36Z0EQtkEtHXu1kSqofDW_X08Isv9kOeEdrzjp__37xxF1173iOhXdI2MaDPRUvxRDFL5q8jU6e6q9dF0whHWJQuq014I4QCGxU-tLbyfjNJrmwzONiglFIi86sEu8crVoOdsLKMrDlM1PN9-Ei78K3MxZrHo2YTKI/s1600/1761636684721~2.jpg",
+      "tipo": "batalha",
+      "inimigo": "rato",
+      "quantidade": 1
+    },
+
+
+    {
+      "id": "msg1",
+      "texto": "",
+      "delaywait": 1000,
+      "delaymsg": 7000,
+      "foto": "https://youtu.be/VqGl4I0Jm2I",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+
+    {
+      "id": "msg1",
+      "texto": "",
+      "delaywait": 1000,
+      "delaymsg": 7000,
+      "foto": "https://youtu.be/ec9tcByE76Q",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    
+
+    {
+      "id": "msg1",
+      "delaywait": 1000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8M-Cl6-WcaFoAD188eCw5iktdL36Z0EQtkEtHXu1kSqofDW_X08Isv9kOeEdrzjp__37xxF1173iOhXdI2MaDPRUvxRDFL5q8jU6e6q9dF0whHWJQuq014I4QCGxU-tLbyfjNJrmwzONiglFIi86sEu8crVoOdsLKMrDlM1PN9-Ei78K3MxZrHo2YTKI/s1600/1761636684721~2.jpg",
+      "tipo": "batalha",
+      "inimigo": "homemcapuz",
+      "quantidade": 1
+    },
+
+    {
+      "id": "msg2",
+      "delaywait": 1000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8M-Cl6-WcaFoAD188eCw5iktdL36Z0EQtkEtHXu1kSqofDW_X08Isv9kOeEdrzjp__37xxF1173iOhXdI2MaDPRUvxRDFL5q8jU6e6q9dF0whHWJQuq014I4QCGxU-tLbyfjNJrmwzONiglFIi86sEu8crVoOdsLKMrDlM1PN9-Ei78K3MxZrHo2YTKI/s1600/1761636684721~2.jpg",
+      "tipo": "batalha",
+      "inimigo": "cobra",
+      "quantidade": 1
+    },
+
+
+
+    {
+      "id": "msg1",
+      "texto": "",
+      "delaywait": 1000,
+      "delaymsg": 7000,
+      "foto": "https://youtu.be/nTpaFcFWclc",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg2",
+      "texto": "",
+      "delaywait": 1000,
+      "delaymsg": 7000,
+      "foto": "https://youtu.be/0Xq0Ms1ZDCI",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+
+    {
+      "id": "msg1",
+      "delaywait": 1000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8M-Cl6-WcaFoAD188eCw5iktdL36Z0EQtkEtHXu1kSqofDW_X08Isv9kOeEdrzjp__37xxF1173iOhXdI2MaDPRUvxRDFL5q8jU6e6q9dF0whHWJQuq014I4QCGxU-tLbyfjNJrmwzONiglFIi86sEu8crVoOdsLKMrDlM1PN9-Ei78K3MxZrHo2YTKI/s1600/1761636684721~2.jpg",
+      "tipo": "batalha",
+      "inimigo": "capuzsombra",
+      "quantidade": 1
+    },
+
+    {
+      "id": "msg2",
+      "texto": "- Parece que vocês evoluiram bastante em um dia de treinamento, está na hora de botar em prática! - Uma sombra começa a se criar em volta do homem encapuzado, crescendo cada vez mais.",
+      "delaywait": 1000,
+      "delaymsg": 15000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVMDqXFjkkDBAfLfyz1NfZ_lf89msoRwdC73jAWtjrL4M5AoRpK7hi0GYoOwWuR7-2I7UkYMZGCdh-HgE8W8kPn4NyhtozcHQpdecblVa4WChLrLfVJWxaIgUMNSCT9t9u39mDHFOZSz2FojQ6tzkgk_LYPnxEnUAho3cwM66agpzZgxGKZazt7fV7xYE/s1600/1762499869198.jpg",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg3",
+      "texto": "Em poucos segundos uma sombra negra erradia do homem encapuzado, encobrindo todo o seu corpo. - Preparem-se! - Diz o homem encapuzado com uma voz sombria.",
+      "delaywait": 1000,
+      "delaymsg": 12000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLK2FHlkH0sm-VpzuuDZuXXSaoeMGNko0MogaYBlQ9w-iYZPLeGyEdrcpQb6FhbDs7Puwpl7l5bc_W7obaH1dMtAUj-Sv-FqaRrx0r0yCEdqTg5e3q0yItNQ2YA_fexB4lRIFgHFYYjbqYimEBZjX8W03yQXEgoA80RY1BrGXNi8rs-HNgJANX7rFk2ks/s1600/1762499932998.jpg",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg4",
+      "texto": "",
+      "delaywait": 1000,
+      "delaymsg": 7000,
+      "foto": "https://youtube.com/shorts/hSqMvjwxZJ8?si=0aTHHYBPIIVetTjd",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+
+
+
+
+    
+  {
+      "id": "msg5",
+      "delaywait": 1000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8M-Cl6-WcaFoAD188eCw5iktdL36Z0EQtkEtHXu1kSqofDW_X08Isv9kOeEdrzjp__37xxF1173iOhXdI2MaDPRUvxRDFL5q8jU6e6q9dF0whHWJQuq014I4QCGxU-tLbyfjNJrmwzONiglFIi86sEu8crVoOdsLKMrDlM1PN9-Ei78K3MxZrHo2YTKI/s1600/1761636684721~2.jpg",
+      "tipo": "batalha",
+      "inimigo": "capuzsombra",
+      "quantidade": 1
+    },
+
+    {
+      "id": "msg2",
+      "texto": "",
+      "delaywait": 1000,
+      "delaymsg": 7000,
+      "foto": "https://youtu.be/ffnfNADDgFw?si=QLQIpVq8UGaCDs_0",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg3",
+      "texto": "",
+      "delaywait": 1000,
+      "delaymsg": 7000,
+      "foto": "https://youtube.com/shorts/SClxtWVlw3w?si=dTIwY-CBidv2FW7g",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg4",
+      "delaywait": 1000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8M-Cl6-WcaFoAD188eCw5iktdL36Z0EQtkEtHXu1kSqofDW_X08Isv9kOeEdrzjp__37xxF1173iOhXdI2MaDPRUvxRDFL5q8jU6e6q9dF0whHWJQuq014I4QCGxU-tLbyfjNJrmwzONiglFIi86sEu8crVoOdsLKMrDlM1PN9-Ei78K3MxZrHo2YTKI/s1600/1761636684721~2.jpg",
+      "tipo": "batalha",
+      "inimigo": "cobra",
+      "quantidade": 1
+    },
+
+    {
+      "id": "msg5",
+      "texto": "Vocês apreenderam novas habilidades.",
+      "delaywait": 1000,
+      "delaymsg": 5000,
+      "foto": "",
+      "centro": true,
+      "corTexto": "#006400",
+      "negrito": true,
+      "corBalao": "#ffc107",
+      "skillsLiberadas": [
+        "grito_de_guerra1",
+        "corte_envenenado1",
+        "bola_de_fogo1",
+        "cura1",
+        "tiro_certo1"
+      ]
+    },
+
+    {
+      "id": "msg6",
+      "texto": "O homem encapuzado fecha a mão e o fogo no alvo se extingue... Do nada ele pega um cesto de madeira e vira na frente deles. '- É hora de vocês treinarem!",
+      "delaywait": 1000,
+      "delaymsg": 13000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6DskNM1BEDydlo1MGlarhKuvZ5-tdGLv-BJWaElpLsdssi_mGnjzWOjPzZX0zC6AMbyJn8nQUc0XxP4L8dmyfRA5eNv58LshfS_3oF2poiWxZAXa0WFkqOJMi7Qxa82pZBpoeiUFKDMi-fIiypv8xWxLZrJxr4Pu7_KCvyAuVVejb3AYldMPtj4KLKL0/s1600/1761635121394.jpg",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg7",
+      "texto": "",
+      "delaywait": 1000,
+      "delaymsg": 7000,
+      "foto": "https://youtu.be/6fIdCVIH_34?si=ZvmQ2rM-AMiw_Um3",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+
+    {
+      "id": "msg8",
+      "delaywait": 1000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8M-Cl6-WcaFoAD188eCw5iktdL36Z0EQtkEtHXu1kSqofDW_X08Isv9kOeEdrzjp__37xxF1173iOhXdI2MaDPRUvxRDFL5q8jU6e6q9dF0whHWJQuq014I4QCGxU-tLbyfjNJrmwzONiglFIi86sEu8crVoOdsLKMrDlM1PN9-Ei78K3MxZrHo2YTKI/s1600/1761636684721~2.jpg",
+      "tipo": "batalha",
+      "inimigo": "cobra",
+      "quantidade": 3
+    },
+
+    {
+      "id": "msg9",
+      "texto": "- Parece que vocês aprenderam bem suas novas habilidades... Será muito útil em breve. - Diz o homem encapuzado.",
+      "delaywait": 1000,
+      "delaymsg": 9000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2ZRt0Akd0QsnAvLuAyBEsWoBZLHdcgD6-RViV6nUye6VregHUQ6gVXZgEWaRQDAOVyyBAwFqdqVrW4nL2RmN6ZAZ9ZP6YF3jSIDp2R1uBtVIZ_miiYxuc6YZKP9RE-qdavEdjDbIwftlpGwy7ZYPvjIoVHub00X4YXS42vHYQjqG68GP1w5GfY4kzVus/s1600/1762107364340.jpg",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg10",
+      "texto": "Logo em seguida, vocês reparam em uma pessoa ao fundo sentada na palha, que aparenta ser um mendigo de idade. O homem encapuzado sinaliza para ele...",
+      "delaywait": 1000,
+      "delaymsg": 11000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEHzVuE8_udHVRhopW0RYWVAUmxGYy8u9khZ4mitEjd5EZzMae6wLUZaB7VI3Ax94dDY0iwaRgmSLkIKbW_tfvkr2g_MM0k11sxc89v3LiW6Exk0B0vLhg6-2q3CRPkmgvfP3MiM0NVsgqgqUeqKGK27lLPo52aiOjis_xwgDhtQ2AXS9TpNk2iI6vR9s/s1600/1762108563756.jpg",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg11",
+      "texto": "",
+      "delaywait": 1000,
+      "delaymsg": 7000,
+      "foto": "https://youtube.com/shorts/Y1yeHC58ZXA?si=kIXuGI_2HveNoFIH",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg12",
+      "delaywait": 1000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8M-Cl6-WcaFoAD188eCw5iktdL36Z0EQtkEtHXu1kSqofDW_X08Isv9kOeEdrzjp__37xxF1173iOhXdI2MaDPRUvxRDFL5q8jU6e6q9dF0whHWJQuq014I4QCGxU-tLbyfjNJrmwzONiglFIi86sEu8crVoOdsLKMrDlM1PN9-Ei78K3MxZrHo2YTKI/s1600/1761636684721~2.jpg",
+      "tipo": "batalha",
+      "inimigo": "mendigo",
+      "quantidade": 1
+    },
+
+    {
+      "id": "msg13",
+      "texto": "Parece que o mendigo idoso acabou deixando cair alguma coisa...",
+      "delaywait": 1000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiPRY9kMz43kRc2F5py4FMfgHFypoFn216RZJKWi0ZrBV9b9Xbz0bJ22HOUdcWAry2glp5BOF1SA9B3wWfvAA8QoygpYBtkuqtDiC_qmpHtxAZUCBpCfB1mOZqU4jMMUShxnnsgI1-h-pccJM_mMjjwB506sEBvK2XTrqcjaN_YkRVStRZGk_aqivZDOI/s1600/1762126813395.jpg",
+      "tipo": "bau",
+      "botao": "Abrir a sacola de couro",
+      "vazio": "20",
+      "centro": false,
+      "corTexto": "#006400",
+      "negrito": true,
+      "corBalao": "#ffc107",
+      "recompensa": {
+      "ouro": "10d2",
+      "loot": [
+        { "item": "faca1", "chance": 50, "quantidade": 1 },
+        { "item": "queijo1", "chance": 80, "quantidade": "2d2" }
+      ]
+      }
+    },
+
+    {
+      "id": "msg14",
+      "texto": "Após abrirem o baú, vocês ouvem um 'Zzzzzt' vindo de trás do baú... Ao chegarem perto para checar, uma cobra dá um bote!",
+      "delaywait": 1000,
+      "delaymsg": 10000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVGoFr_n6KjjflByAtcblRhyXFh_jT8GVzk_21t5STVWh5AUH0fyrbTIIIPs09tzLswaonO3bJuvYqj8P64R2ju8Oid0IQdt_fhHe8D7yE-BCXO0qCgVAuq5Mmul2cLRLOIdy0E_ZbJvE8WBKD2K36x2M8SmvXHQUJzZTBabjjwOqMZwqfEFMJ0ZkdYCo/s1600/1760244492662.jpg",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    }
+
+
+
+
+
+
+  ]
+}
