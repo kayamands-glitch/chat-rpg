@@ -1,4 +1,5 @@
-Testeste  
+{
+  
   "cap1": {
     "numero": 1,
     "titulo": "O Recrutamento",
@@ -20,7 +21,7 @@ Testeste
     "requisitoLevel": 3,
     "requisitoCap": 2,
     "narrativa_url": "https://kayamands-glitch.github.io/chat-rpg/capitulos/capitulo3.json"
-  }
+  },
  
   "cap4": {
     "numero": 3,
