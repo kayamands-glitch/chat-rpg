@@ -18,7 +18,8 @@
   "cap3": {
     "numero": 3,
     "titulo": "Teste",
-    "requisitoLevel": 1,
+    "requisitoLevel": 3,
+    "requisitoCap": 2,
     "narrativa_url": "https://kayamands-glitch.github.io/chat-rpg/capitulos/capitulo3.json"
   }
  
