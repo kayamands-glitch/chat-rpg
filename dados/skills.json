@@ -82,8 +82,7 @@
     "custo_mana": 3,
     "skill_turnos": 1,
     "descricao": "Um disparo preciso que causa dano."
-  }
-
+  },
 
 "pancada1": {
     "classeId": 1,
