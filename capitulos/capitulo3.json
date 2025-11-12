@@ -59,7 +59,27 @@
       "corTexto": "#E0B683",
       "negrito": true,
       "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg6",
+      "texto": "Vocês aprenderam novas habilidades.",
+      "delaywait": 1000,
+      "delaymsg": 5000,
+      "foto": "",
+      "centro": true,
+      "corTexto": "#006400",
+      "negrito": true,
+      "corBalao": "#ffc107",
+      "skillsLiberadas": [
+        "pancada1",
+        "agilidade_excessiva1",
+        "explosao1",
+        "limpeza_ancestral1",
+        "tiro_duplo1"
+      ]
     }
+
 
 
 
