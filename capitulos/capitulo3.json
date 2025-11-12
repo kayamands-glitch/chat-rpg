@@ -1,0 +1,70 @@
+{
+  "capitulo3": [
+
+  {
+      "id": "msg1",
+      "texto": "Logo no início do dia, vocês retornam para a igreja e encontram novamente o homem encapuzado.",
+      "delaywait": 2000,
+      "delaymsg": 9000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO1E6nuJJo-QHXUocQ8apvI2bfuohqr-fCb5YkSUzMvIxzZGiASuIR5JpJ5kjmxl_By_et02uxKcgsj-u4ZVCZIjyaCMQ7jUcrVTQxBcMiA6fsPPshYny_lXhLys1Jt6TiNHY0zFVI53rOwOCvfMtkuxFUz_XI4fg_w2HB2q8C-AV_w4CuPyT6v4cZt44/s1600/1762907857959.jpg",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg2",
+      "texto": "Vocês entraram no centro de treinamento da igreja.",
+      "delaywait": 1000,
+      "delaymsg": 5000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgU8kSaZRR1l1MmgIDck2O-2dnKrbbQOur6yo226ZW2uww1p8Zb7NxEMbA3XxRLLagmPytuDET81newH267_qqlKYV005i0NuGvv8RXM6RkVpuHXCIVyXxHlVKe-JwElTC7yCNf1noLgvb6qGl45olVGyjxcctwzDKVJiUz4KLyptyAPR0IIGri9qK2FY/s1600/1762908884033.jpg",
+      "centro": true,
+      "corTexto": "#006400",
+      "negrito": true,
+      "corBalao": "#ffc107"
+    },
+
+    {
+      "id": "msg3",
+      "texto": "- É hora de começarmos novamente o nosso treinamento. Está na hora de vocês treinarem entre si mesmos. - Disse o homem encapuzado.",
+      "delaywait": 1000,
+      "delaymsg": 13000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5KBptVtvq9NINZnFPLFTc71LSCKxbTyk88dOc1Ne-LYaeNxO3gGkfG3-OTzNWjW8yAIwKbUMvetDN5w5XSynDgmC-omjG4Dwggs00RFExcY-zBp_2YgClKcYYAHG6pnlGvhJPRdyt1DNJLxNwnrF9Das1d4c2xKaFHxtrYxd-g77FYqIeLkyKKxazJqc/s1600/1762908784348.jpg",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg4",
+      "texto": "Vocês começam o treinamento entre si, atacando um ao outro... Dando tudo de vocês, acabam se aprimorando cada vez mais.",
+      "delaywait": 1000,
+      "delaymsg": 11000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjjdwXzsGRgGKrPbOeqRcIV8zzM6O5kNU8WpzHxU_HzP5DRdzJMbnBA4VyOleF4wJjPG0gOnZWJTgoMw1y7UH7uP_k0qu5Iz_0hwXX3NqlboqJm6lHQjs5iSlJXnZBHhWi76arwKM2oEd_XEuGsngojsXKkdgqevs9urHf1-95cinWHHf2Vax1iTBwg5o/s1600/1762911260513.jpg",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg5",
+      "texto": "O dia inteiro se passou, um treinamento extremamente exaustivo... Vocês evoluíram bastante com o treinamento, aprendendo coisas novas...",
+      "delaywait": 1000,
+      "delaymsg": 11000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy4YITuOMbNbFJHFNDU-SgrG5SLkxMH3qcLa9wP4FFKNX7isu9ZcK0QnpyRTrNDn6fUVTZEipGc4Xfmh1Tie-yQ5NVqCxWregPnQPXU8sAuTo2-gKAIDJeDybAbMP3IHJYOsuhMFxfvKUDdQLr-KYgYRu01fO1Ay-ODLtuW1RQZxCvfqSOMnLCxqm2NPk/s1600/1762917831836.jpg",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    }
+
+
+
+
+
+  ]
+}
+
