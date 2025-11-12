@@ -85,5 +85,81 @@
   }
 
 
+"pancada1": {
+    "classeId": 1,
+    "nome": "Pancada I",
+    "tipo": "fisica",
+    "alvo": "enemy",
+    "grupo": "Pancada",
+    "dano_dado": "3d2",
+    "atributo_dano": "forca",
+    "dado_acerto": 10,
+    "custo_mana": 3,
+    "skill_turnos": 1,
+    "descricao": "Uma pancada forte."
+  },
+"agilidade_excessiva1": {
+    "classeId": 2,
+    "nome": "Agilidade Excessiva I",
+    "tipo": "buff",
+    "alvo": "self",
+    "grupo": "Agilidade Excessiva",
+    "atributo_dano": "destreza",
+    "custo_mana": 2,
+    "skill_turnos": 0,
+    "descricao": "Aumenta sua destreza no próximo turno.",
+    "condicao": {
+      "nome": "ae_buff_des",
+      "turnos": 3,
+      "efeito": {
+        "bonus": "destreza",
+        "quantidade": 1,
+        "stack": true
+      }
+    }
+  },
+"explosao1": {
+    "classeId": 3,
+    "nome": "Explosão I",
+    "tipo": "magico",
+    "alvo": "area",
+    "grupo": "Explosão",
+    "dano_dado": "2d3",
+    "atributo_dano": "inteligencia",
+    "dado_acerto": 10,
+    "custo_mana": 7,
+    "skill_turnos": 1,
+    "cor": "#FF8C00",
+    "descricao": "Causa uma explosão em todos os inimigos."
+  },
+"limpeza_ancestral1": {
+    "classeId": 4,
+    "nome": "Limpeza Ancestral I",
+    "tipo": "magico",
+    "alvo": "ally",
+    "grupo": "Limpeza Ancestral",
+    "dano_dado": "1d5",
+    "atributo_dano": "inteligencia",
+    "dado_acerto": 10,
+    "custo_mana": 5,
+    "skill_turnos": 1,
+    "descricao": "Limpa condições negativas."
+  },
+"tiro_duplo1": {
+    "classeId": 5,
+    "nome": "Tiro Duplo I",
+    "tipo": "fisica",
+    "alvo": "enemy",
+    "grupo": "Tiro Duplo",
+    "dano_dado": "2d2",
+    "atributo_dano": "destreza",
+    "dado_acerto": 10,
+    "custo_mana": 5,
+    "skill_turnos": 1,
+    "descricao": "Um disparo duplo que causa dois danos."
+  }
+
+
+
   
 }
