@@ -82,14 +82,84 @@
 
     {
       "id": "msg7",
-      "texto": "O homem encapuzado fecha a mão e o fogo no alvo se extingue... Do nada ele pega um cesto de madeira e vira na frente deles. '- É hora de vocês treinarem!",
+      "texto": "O homem encapuzado se aproxima de vocês e diz: - Já descansaram o suficiente, está na hora de colocarem em prática o que aprenderam... Hora da patrulha!",
       "delaywait": 1000,
-      "delaymsg": 13000,
-      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6DskNM1BEDydlo1MGlarhKuvZ5-tdGLv-BJWaElpLsdssi_mGnjzWOjPzZX0zC6AMbyJn8nQUc0XxP4L8dmyfRA5eNv58LshfS_3oF2poiWxZAXa0WFkqOJMi7Qxa82pZBpoeiUFKDMi-fIiypv8xWxLZrJxr4Pu7_KCvyAuVVejb3AYldMPtj4KLKL0/s1600/1761635121394.jpg",
+      "delaymsg": 15000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWUcwkWBG_rVAOC5oaHNYxHxNGlOzkbGUrQp1BBkXMii_WtZ2C764vcQI_9jv_ClwzQqljWyjDddEbV39wMHi_yA80O2fEooLuQ7BCl-lPUT6lZmnrFGaSDokdBfITuvEDTrNehrokxrCTlQMJhci_5I6NL3duHaycZYvTwPsjH9iB1PdoFv-lFSNBRM4/s1600/1763010237033.jpg",
       "centro": false,
       "corTexto": "#E0B683",
       "negrito": true,
       "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg8",
+      "texto": "Vocês seguem o homem encapuzado até uma porta nos fundos, onde dá para uma saída em um beco sujo e mal iluminado. Assim que vocês passam pela porta, ele tranca vocês para fora.",
+      "delaywait": 1000,
+      "delaymsg": 17000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1xIbyWvgVqXIM95ed2CqMcIOMxXM_9Gsnws0MPDdO8CJu_H7w1bpt1UevZgz7fZlRu9SeMvNUWW3sKkq8_ymsekP5oGLnpdAmhfx3UTQTEsbPxcSKPyan-KczmF9o6ptxp8z1f4Z-4VbPPYo-mHJTEeDruMUlaQdBADeF1o8CNs3swEM-7xHOPmjSOuc/s1600/1763012238209.jpg",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg9",
+      "texto": "Vocês entraram no beco da cidade.",
+      "delaywait": 1000,
+      "delaymsg": 5000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhgerFR-8LJkovl9J-20ATMZ1xaVd47P49pYGgZBS2zaCFD8aQebKX89y16LoNtt5WQHokpahfnAl1evh2snLAhbnha155wz48m_N5Fp2B5n1BQ9vPi7jdhyphenhyphenFIpsWEUFjFmwjv3_7WnNDU7x9W2KgJpcNK6Lj6nWJ_9i49YXXFpMLtYFcg3VDkzbReMW8/s1600/1762900787218.jpg",
+      "centro": true,
+      "corTexto": "#006400",
+      "negrito": true,
+      "corBalao": "#ffc107"
+    },
+
+    {
+      "id": "msg10",
+      "texto": "Entrando no beco, vocês sentem um cheiro horrível, onde um esgoto corre livremente.",
+      "delaywait": 1000,
+      "delaymsg": 9000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmnjjcJJ3pFOHlxlcHYrkq9uVqpzuYRV9iRwpkxZa8daKgh9LqZMisXP45NVQdvPepdhp8o3WLYbcTT93XTLbvl-C7Bp6CfXY3NiLSb4fTTr0mJldSXmazDwmhwONkJttpSARInVDb9l1tYK79L2lhXHXoaDNrEP5HKSYtAAgKXjHLepZ5DQLla8k1W7Q/s1600/1762900682717.jpg",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg11",
+      "texto": "Vocês ouvem uma movimentação vindo de umas caixas bem próximas a vocês, um grunhido alto... Cuidado, animais raivosos!",
+      "delaywait": 1000,
+      "delaymsg": 13000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnegB6zynX9yac_9PflA_8HewMDeqp6zKxh9cWTBfyssMey9QqOzEUysgDTIAEvEJxL5ew34heCqYkgtWdWAjxuC_AATTb9WLqn3i28cv6OE8iV5y8OdZWQH8BRCX0gU7GxvCeuILy4NksIwpZzaPyJg2wQflVVoW-M78b50x6kEruuK2RQJZjGNa7LOo/s1600/1762881698625.jpg",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+    {
+      "id": "msg12",
+      "texto": "",
+      "delaywait": 1000,
+      "delaymsg": 7000,
+      "foto": "https://youtu.be/6fIdCVIH_34?si=ZvmQ2rM-AMiw_Um3",
+      "centro": false,
+      "corTexto": "#E0B683",
+      "negrito": true,
+      "corBalao": "#4a412a"
+    },
+
+
+    {
+      "id": "msg13",
+      "delaywait": 1000,
+      "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhebFBavggrkHVTF9lxVshC7byxeowVMUM01Lw42lc5E5sTJcBEfAdccJ2EIoY2Pfp8iGpsHgirt4sJGHHIYR-OPSBCow-bSkADP-UERqa87YUdebK2fT-mC16Ad3XbfLqyq2-Xql0NDq_M3f9FB_ZTvK98j-GRiWVEwQH0ddR_45yZO7gSgNjAE7xgcRM/s1600/1763015188761~2.jpg",
+      "tipo": "batalha",
+      "inimigo": "ratazana",
+      "quantidade": 2
     }
 
 
