@@ -150,7 +150,7 @@
     "tipo": "fisica",
     "alvo": "enemy",
     "grupo": "Tiro Duplo",
-    "dano_dado": "2d2",
+    "dano_dado": "1d2",
     "atributo_dano": "destreza",
     "dado_acerto": 10,
     "custo_mana": 5,
