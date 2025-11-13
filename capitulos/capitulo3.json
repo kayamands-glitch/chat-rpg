@@ -152,14 +152,13 @@
       "corBalao": "#4a412a"
     },
 
-
     {
       "id": "msg13",
       "delaywait": 1000,
       "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhebFBavggrkHVTF9lxVshC7byxeowVMUM01Lw42lc5E5sTJcBEfAdccJ2EIoY2Pfp8iGpsHgirt4sJGHHIYR-OPSBCow-bSkADP-UERqa87YUdebK2fT-mC16Ad3XbfLqyq2-Xql0NDq_M3f9FB_ZTvK98j-GRiWVEwQH0ddR_45yZO7gSgNjAE7xgcRM/s1600/1763015188761~2.jpg",
       "tipo": "batalha",
       "inimigo": "ratazana",
-      "quantidade": 2
+      "quantidade": 3
     }
 
 
