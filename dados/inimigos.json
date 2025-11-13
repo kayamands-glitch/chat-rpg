@@ -158,9 +158,9 @@
     "nome": "Ratazana",
     "descricao_curta": "Um rato enorme e raivoso, sua mordida pode causar raiva.",
     "avatar_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3-xdyFrcNl2zxAxiBHdllQGcmsnj8d3wEx_NDgbJGNe-nKUS6WAhOHaW8yMppCuK3soHEv2w3DBMrokZvGbNmg9d0yAHgKvN1tsaFhOhHTkKbT71xh4tDADKH_PHXnujJM1NSzIORRXpU-tA-A4HPm-HV9sTfendJDbX0HxXGOZmYfqod-pBcgiNRUhc/s1600/1760375949972.jpg",
-    "fuga": "40",
+    "fuga": "20",
     "status": {
-      "vida": 50,
+      "vida": 40,
       "mana": 100,
       "destreza": 3,
       "forca": 3,
