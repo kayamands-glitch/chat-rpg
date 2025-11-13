@@ -165,7 +165,41 @@
     "sucata": 2,
     "defesa": 1,
     "slot": "capacete"
+  },
+
+  "apple1": {
+    "nome": "Maçã",
+    "descricao": "Uma maçã nutritiva. Restaura 20 pontos de vida.",
+    "tipo": "consumivel",
+    "raridade": "1",
+    "valor": 5,
+    "efeito": {
+      "tipo": "cura",
+      "subtipo": "vida",
+      "valor": 20
+    }
+  },
+
+  "essenciasombria1": {
+    "nome": "Essência Sombria",
+    "descricao": "Uma essência sombria removido de algo sombrio.",
+    "tipo": "misc",
+    "raridade": "1",
+    "valor": 3,
+    "sucata": 2
+  },
+
+  "espadacurta1": {
+    "nome": "Espada Curta",
+    "descricao": "Uma espada curta. Não parece tão boa, mas é sua primeira arma de verdade.",
+    "tipo": "arma",
+    "raridade": "1",
+    "valor": 10,
+    "sucata": 5,
+    "dano": "3d2",
+    "slot": "arma"
   }
+
 
 
 
