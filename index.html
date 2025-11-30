@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* RESET E BASE */
+        * { margin: 0; padding: 0; box-sizing: border-box; user-select: none; /* App não seleciona texto */ }
+        body { 
+            background-color: #000; 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            overflow: hidden; 
+            color: white;
+        }
+
+        /* CLASSE GENÉRICA PARA TELAS */
+        .app-screen {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            transition: opacity 0.8s ease;
+            opacity: 0; /* Começa invisível */
+            pointer-events: none;
+            z-index: 1;
+        }
+
+        /* CLASSE PARA TORNAR A TELA ATIVA */
+        .app-screen.active {
+            opacity: 1;
+            pointer-events: all;
+            z-index: 10;
+        }
+
+        /* --- TELA 1: EMPRESA --- */
+        #screen-company { background: #000; }
+        .company-logo { font-size: 2rem; letter-spacing: 10px; animation: pulse 2s infinite; }
+
+        /* --- TELA 2: GAME INTRO --- */
+        #screen-game-intro { 
+            background: linear-gradient(135deg, #1e0000 0%, #000 100%); 
+        }
+        .game-logo { 
+            font-size: 4rem; font-weight: bold; 
+            text-shadow: 0 0 30px rgba(255, 0, 0, 0.6);
+            transform: scale(0.8);
+            transition: transform 4s ease; /* Efeito de zoom lento */
+        }
+        #screen-game-intro.active .game-logo { transform: scale(1.1); }
+
+        /* --- TELA 3: UPDATER (ATUALIZAÇÃO) --- */
+        #screen-updater {
+            background: url('https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=2070&auto=format&fit=crop') no-repeat center center;
+            background-size: cover;
+        }
+        /* Overlay escuro para ler o texto */
+        .updater-overlay {
+            position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(0,0,0,0.85);
+            z-index: -1;
+        }
+
+        /* BARRA DE PROGRESSO */
+        .update-container { width: 60%; max-width: 500px; text-align: left; }
+        .status-text { font-size: 0.9rem; color: #aaa; margin-bottom: 10px; font-family: monospace; }
+        
+        .progress-bar-bg {
+            width: 100%; height: 6px; background: #333; border-radius: 3px; overflow: hidden;
+        }
+        .progress-bar-fill {
+            width: 0%; height: 100%; background: #00ffcc; 
+            box-shadow: 0 0 10px #00ffcc;
+            transition: width 0.2s linear;
+        }
+
+        /* ANIMAÇÃO SIMPLES */
+        @keyframes pulse { 0% { opacity: 0.6; } 50% { opacity: 1; } 100% { opacity: 0.6; } }
+
+    </style>
+</head>
+<body>
+
+    <div id="screen-company" class="app-screen">
+        <h2 class="company-logo">NEXUS INC.</h2>
+    </div>
+
+    <div id="screen-game-intro" class="app-screen">
+        <h1 class="game-logo">CYBER VERSE</h1>
+    </div>
+
+    <div id="screen-updater" class="app-screen">
+        <div class="updater-overlay"></div>
+        <div class="update-container">
+            <div class="status-text" id="update-status">Inicializando sistema...</div>
+            <div class="progress-bar-bg">
+                <div class="progress-bar-fill" id="progress-fill"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // --- LÓGICA PROFISSIONAL (ASYNC FLOW) ---
+
+        // Função utilitária para criar pausas (Promessa)
+        const wait = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
+        // Objeto que controla as telas
+        const AppManager = {
+            screens: {
+                company: document.getElementById('screen-company'),
+                game: document.getElementById('screen-game-intro'),
+                updater: document.getElementById('screen-updater')
+            },
+
+            // Função para trocar de tela suavemente
+            async switchScreen(screenName) {
+                // 1. Remove a classe 'active' de todas as telas
+                Object.values(this.screens).forEach(el => el.classList.remove('active'));
+                
+                // 2. Espera um pouco para a transição de fade-out (opcional, mas fica chique)
+                // await wait(200); 
+
+                // 3. Ativa a nova tela
+                if(this.screens[screenName]) {
+                    this.screens[screenName].classList.add('active');
+                }
+            },
+
+            // Simula o processo de verificar atualizações
+            async runUpdater() {
+                const statusText = document.getElementById('update-status');
+                const barFill = document.getElementById('progress-fill');
+                
+                statusText.innerText = "Conectando ao servidor...";
+                await wait(1000);
+
+                statusText.innerText = "Verificando versão...";
+                await wait(800);
+
+                statusText.innerText = "Baixando patch: v1.0.4...";
+                
+                // Simulação de download (0 a 100%)
+                for (let i = 0; i <= 100; i += 2) {
+                    barFill.style.width = i + '%';
+                    // Varia a velocidade para parecer real (mais rápido no final)
+                    await wait(i < 60 ? 50 : 20); 
+                }
+
+                statusText.innerText = "Atualização concluída. Iniciando...";
+                statusText.style.color = "#00ffcc";
+                await wait(1000);
+
+                // AQUI VOCÊ CHAMARIA O MENU PRINCIPAL OU O JOGO
+                alert("Pronto! Aqui o jogo abriria.");
+            }
+        };
+
+        // --- O ROTEIRO DO APP (MAIN FLOW) ---
+        async function startApp() {
+            // 1. Mostra tela da Empresa
+            AppManager.switchScreen('company');
+            await wait(3000); // Fica na tela por 3s
+
+            // 2. Mostra Intro do Jogo
+            AppManager.switchScreen('game');
+            await wait(3500); // Fica na tela por 3.5s
+
+            // 3. Vai para o Updater
+            AppManager.switchScreen('updater');
+            
+            // 4. Roda a lógica de atualização (Conectar no servidor, baixar arquivos...)
+            await AppManager.runUpdater();
+        }
+
+        // Inicia tudo quando o app carregar
+        window.addEventListener('DOMContentLoaded', startApp);
+
+    </script>
+</body>
+</html>
