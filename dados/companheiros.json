@@ -1,1 +1,22 @@
-{}
+{
+  "ratazana": {
+    "nome": "Ratazana",
+    "raridade": "comum",
+    "classe": "Guerreiro",
+    "descricao_curta": "Uma ratazana criada nos esgotos dos becos da cidade, resistente a muitas doenças.",
+    "avatar_url": "",
+    "foto_url": "",
+    "vida": 30,
+    "mana": 0,
+    "defesa": 1,
+    "forca": 1,
+    "destreza": 0,
+    "constituicao": 1,
+    "inteligencia": 0,
+    "ataques": [
+      {
+        "id": "mordida_ratazana"
+      }
+    ]
+  }
+}
