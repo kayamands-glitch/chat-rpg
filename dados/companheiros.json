@@ -18,5 +18,25 @@
         "id": "mordida_ratazana"
       }
     ]
+  },
+  "gato": {
+    "nome": "Gato",
+    "raridade": "comum",
+    "classe": "Ladrão",
+    "descricao_curta": "Um gato sorrateiro, é um bom companheiro, mas não é muito útil.",
+    "avatar_url": "",
+    "foto_url": "",
+    "vida": 20,
+    "mana": 0,
+    "defesa": 0,
+    "forca": 1,
+    "destreza": 2,
+    "constituicao": 0,
+    "inteligencia": 0,
+    "ataques": [
+      {
+        "id": "arranhada_gato"
+      }
+    ]
   }
 }
