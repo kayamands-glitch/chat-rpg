@@ -4,8 +4,6 @@
     "raridade": "comum",
     "classe": "Guerreiro",
     "descricao_curta": "Uma ratazana criada nos esgotos dos becos da cidade, resistente a muitas doenças.",
-    "avatar_url": "",
-    "foto_url": "",
     "vida": 30,
     "mana": 0,
     "defesa": 1,
@@ -13,6 +11,18 @@
     "destreza": 0,
     "constituicao": 1,
     "inteligencia": 0,
+    "evolucoes": [
+      {
+        "evolucao": 1,
+        "foto_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj5PDaoiDG1P65EfveoapzYB46saqJCCPSU-5xNeXcgKwI06Da_L0kdEb2oMLpkcfboIlyMMbtvkhngzSxsGM7n3QrXQGRz1Fivzjqi5vjvOlREUuUnZXulJQMO8Mda-eC9kZbgHua0Tfqno9APwgPpqnZmTVNc8J9zqC6pp_JnOmkO04US5bmKML78W8/s1600/1765468683391~3.jpg",
+        "perfil_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEXmrms_P30xSFc3F7KrmTIEsEP62oes2nQUB-pgq9Rl3_8Gs-joXxE_p3v9v9Di97vYb4pNGy2hfERFfFJm8onOB50NZHA3czisjEmLMV5KS2a07Ay5S1zVycav36CwvWZQnBujHN6eg9PWYSQJ8zy9CinaExW4veHqsLm13BO6Al8yje5s2ZAH45QcA/s1600/1765468683391~2.jpg"
+      },
+      {
+        "evolucao": 10,
+        "foto_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNPyMvNdJ-2cxzaejw056QG4vBCovOjXpY9skMoz49mkEqQl2fdyPLAG3iaAKKQLeKTRnhwTYhL8Nw1RnQhs1eIFG7r-_PsjNTM0gsmK4zPJoHLvWpnHDgdVIK9y9U4YAW5-FCz2CJh-hL2L4OFMshYbWXi1uij9mkWfZCA2w5cKfl3PoZV2o7RvnntcE/s1600/1765468346263~2.jpg",
+        "perfil_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh34WARIlzord4cNXkNIMRpGfLqdepjt2TwuNolCtGLaZche_GkXKsp6_8rDXu4eqQr95IKw2_iVz4Vcg_RE12ThYs5QtFF55QGiedRqQGfMGdRtJPy8Tl56CmubRQ4DTqt7feBHUPN5MiVYU5_tjzTTTdRYCMbkCpSDa55vCr_FFN-FHKpfRtlTd6XMMY/s1600/1765468346263~3.jpg"
+      }
+    ],
     "ataques": [
       {
         "id": "mordida_ratazana"
@@ -23,9 +33,7 @@
     "nome": "Gato",
     "raridade": "comum",
     "classe": "Ladrão",
-    "descricao_curta": "Um gato sorrateiro, é um bom companheiro, mas não é muito útil.",
-    "avatar_url": "",
-    "foto_url": "",
+    "descricao_curta": "Um gato sorrateiro, é um bom companheiro, mas é o primeiro a correr de uma batalha.",
     "vida": 20,
     "mana": 0,
     "defesa": 0,
@@ -33,6 +41,18 @@
     "destreza": 2,
     "constituicao": 0,
     "inteligencia": 0,
+    "evolucoes": [
+      {
+        "evolucao": 1,
+        "foto_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8Bomo6_mJySRd0aqs5Q4-LdUiTrXhiVGmsDmoGltX43Fq0FmEzYRvB_jwJucpd_JUCfzRburJGtTp_UJ1fX07yDVZu9dGdsn5mib0p2b4QRakvrAIctUIW6K3ay-hJekjRsJnyWQHqyJhyinbLMkVYPrmqkXB8AIx4D0O-6ySTljLqnBuwuXdTRHx8R8/s1600/1765473978544~2.jpg",
+        "perfil_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ6AyeVHWVhZqaA5eNAqHoPfN13yp0YV877gwYnO7IL2Ef3h1fLQnpVLgmBzoyfWciMQZLHlSbNf8l1rh0JzVmjLg5yDhXdAP3Q4_FOBPf8kdkG8-I50yOvSQWogVFuZHRKVvPinc_iltj1B_rMnVnBo2xXruR4jwS48imysDxXPtZMRozBLMKpknkRZ4/s1600/1765473978544~3.jpg"
+      },
+      {
+        "evolucao": 10,
+        "foto_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3x-zrc2EGuJSgfu8Tsb83SpnHOtT2zDLfZ6gorgWO_UrqklQ39FL4KMu0UD0Zctg0w0jeYosBE5fRRz3a6KHbKEau__UaJVJzV6IBDCxpDKCqdRz94PjaMgnJhpdpniGRTNIetC0phYtbS8eCkLn0Mycmc2F9sooKRUiENq_WgM8WDkxAtpe6rJNCbwQ/s1600/1765473561259~2.jpg",
+        "perfil_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUrjMBn1Ob622R2LvTUASzv7mQCYkzub0ALKhpPFnckjt3p1An1D2x_IrYQzIbW6lip_XBI1Fct7vVxrZh2uFVtvyJXHjwGduBmjU_3WKW_FRLjVeAMBxuBIWYx7ycG2K-j29mx3IOL2QjvYJRjyWFAwxY1ITVDKKuhDIQvhzVnGwGsl64ffLxtHTVm4w/s1600/1765473561259~3.jpg"
+      }
+    ],
     "ataques": [
       {
         "id": "arranhada_gato"
